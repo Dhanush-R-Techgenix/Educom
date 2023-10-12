@@ -25,6 +25,11 @@ import Sqlto from './courses/sql';
 import Quizfile from './quiz/quizfile';
 import Quizhome from './quiz/quizhome';
 import Community from './header/community';
+import Adminhome from './Page/Dashboard/adminhome';
+import Dashboard from './Dashboard';
+import Helpcenter from './helpcenter/helpcenter';
+import HelpContact from './helpcenter/main';
+import PrivacyPolicy from './helpcenter/privacy';
 
 function App() {
   return (
@@ -61,6 +66,12 @@ function App() {
       <Route path='Sqlto' element={<Sqlto/>}/>
       <Route path='Quizfile' element={<Quizfile/>}/>
       <Route path='Quizhome' element={<Quizhome/>}/>
+      <Route path='Adminhome' element={<Adminhome/>}/>
+      <Route path='Dashboard' element={<Dashboard/>}/>
+      <Route path='Helpcenter' element={<Helpcenter/>}/>
+      <Route path='HelpContact' element={<HelpContact/>}/>
+      <Route path='PrivacyPolicy' element={<PrivacyPolicy/>}/>
+   
       </Routes>
     </Router>
   );
