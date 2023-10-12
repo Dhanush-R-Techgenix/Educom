@@ -51,11 +51,15 @@
 .edu-user-footer-sub p{
     margin-top: 20px;
 }
+.edu-user-footer-sub ul{
+    position: relative;
+    right: 30px;
+}
 .edu-user-footer-icon{
     width: 100%;
     height: auto;
     margin-top: 20px;
-    margin-left: 27px;
+  
 }
 #edu-user-twit{
     font-size: 30px;
