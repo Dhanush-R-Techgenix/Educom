@@ -19,6 +19,10 @@ const AboutUs = () => {
           <Col lg="6" md="6">
             <div className="about__content">
               <h2>About Us</h2>
+              <h2>About Us</h2>
+              <h2>About Us</h2>
+              <h2>About Us</h2>
+              <h2>About Us</h2>
               <p>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                 Excepturi cupiditate animi deserunt libero nesciunt corporis
@@ -30,6 +34,16 @@ const AboutUs = () => {
                 explicabo nobis ex quo molestiae!
               </p>
               <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Excepturi cupiditate animi deserunt libero nesciunt corporis
+                explicabo nobis ex quo molestiae!
+              </p>
+              <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                Excepturi cupiditate animi deserunt libero nesciunt corporis
+                explicabo nobis ex quo molestiae!
+              </p>
+                <p>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                 Excepturi cupiditate animi deserunt libero nesciunt corporis
                 explicabo nobis ex quo molestiae!
