@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Swal from 'sweetalert2';
-import "./edit.css"
+import "../Dashboard/edit.css"
 
 function Edit({ employees, selectedEmployee, setEmployees, setIsEditing }) {
 
@@ -53,67 +53,67 @@ function Edit({ employees, selectedEmployee, setEmployees, setIsEditing }) {
     };
 
     return (
-        <div className="edu-edit-user-container">
+        <div className="edit-user-container">
   
             <img style={{width:'25%', height:'500px'}} src="https://assets.website-files.com/643f7373d3f6653157617339/6506b631318c91630d74f39c_3D%20Component.png"></img>
-            <div className='edu-edit-user-main'>
+            <div className='edit-user-main'>
             <form  onSubmit={handleUpdate}>
                
-                <div className='edu-edit-user-sub-container'>
+                <div className='edit-user-sub-container'>
                 <h1>Edit user details</h1><br></br><br></br>
-                <div className='edu-edit-user-sub'>
-                <label id='edu-user-label' htmlFor="firstName">First Name:</label><br></br>
-                <input id="edu-firstName"
+                <div className='edit-user-sub'>
+                <label id='user-label' htmlFor="firstName">First Name:</label><br></br>
+                <input id="firstName"
                     type="text"
                     name="firstName"
                     value={firstName}
                     onChange={e => setFirstName(e.target.value)}
                 />
                 </div>
-                <div className='edu-edit-user-sub'>
-                <label id='edu-user-label' htmlFor="lastName">Last Name:</label><br></br>
+                <div className='edit-user-sub'>
+                <label id='user-label' htmlFor="lastName">Last Name:</label><br></br>
                 <input
-                    id="edu-lastName"
+                    id="lastName"
                     type="text"
                     name="lastName"
                     value={lastName}
                     onChange={e => setLastName(e.target.value)}
                 />
                 </div>
-                <div className='edu-edit-user-sub'>
-                <label id='edu-user-label' htmlFor="email">Email:</label><br></br>
+                <div className='edit-user-sub'>
+                <label id='user-label' htmlFor="email">Email:</label><br></br>
                 <input
-                    id="edu-email"
+                    id="email"
                     type="email"
                     name="email"
                     value={email}
                     onChange={e => setEmail(e.target.value)}
                 />
                 </div>
-                <div className='edu-edit-user-sub'>
-                <label id='edu-user-label' htmlFor="salary">Salary ($):</label><br></br>
+                <div className='edit-user-sub'>
+                <label id='user-label' htmlFor="salary">Salary ($):</label><br></br>
                 <input
-                    id="edu-salary"
+                    id="salary"
                     type="number"
                     name="salary"
                     value={salary}
                     onChange={e => setSalary(e.target.value)}
                 />
                 </div>
-                <div className='edu-edit-user-sub'>
-                <label id='edu-user-label'  htmlFor="date">Date:</label><br></br>
+                <div className='edit-user-sub'>
+                <label id='user-label'  htmlFor="date">Date:</label><br></br>
                 <input
-                    id="edu-date"
+                    id="date"
                     type="date"
                     name="date"
                     value={date}
                     onChange={e => setDate(e.target.value)}
                 />
                 </div>
-                <div className='edu-edit-user-sub-button'>
-                    <input id='edu-update-button' type="submit" value="Update" />
+                <div className='edit-user-sub-button'>
+                    <input id='update-button' type="submit" value="Update" />
                     <input
-                    id='edu-cancel-button'
+                    id='cancel-button'
                         style={{ marginLeft: '12px' }}
                         className="muted-button"
                         type="button"

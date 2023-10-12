@@ -2,18 +2,18 @@
     padding: 0;
     margin: 0;
 }
-.edu-edit-user-container{
+.edit-user-container{
     width: 100%;
     height: 750px;
     display: flex;
     justify-content: center;
     /* background-color: black; */
 }
-.edu-edit-user-container img{
+.edit-user-container img{
     position: relative;
     left: 78vh;
 }
-.edu-edit-user-main{
+.edit-user-main{
     width: 100%;
     height: 650px;
     position: absolute;
@@ -22,7 +22,7 @@
 
   
 }
-.edu-edit-user-sub-container{
+.edit-user-sub-container{
     width: 100%;
     /* box-shadow: 0px 0px 10px 0px rgba(14, 13, 13, 0.15); */
     height:750px;
@@ -31,26 +31,22 @@
     /* left: 75vh; */
     /* top: 5vw; */
     /* background-color: #faebd78a; */
-    right: 20vh;
 
    
 }
-.edu-edit-user-container h1{
+.edit-user-container h1{
     /* text-align: center; */
     color: #17bf9e;
     font-size: 60px;
-    position: relative;
-    right: 20vw;
 }
-.edu-edit-user-sub{
+.edit-user-sub{
     width:70%;
     height: 80px;
-    /* margin-left: 10vh; */
+    margin-left: 10vh;
     margin-top: 5vh;
-    
 
 }
-#edu-firstName{
+#firstName{
     width:70%;
     margin-top: 10px;
     height: 35px;
@@ -62,12 +58,11 @@
     /* border-radius: 20px; */
     background: none;
     color: gray;
-
    
   
 }
 
-#edu-lastName{
+#lastName{
     width:70%;
     margin-top: 10px;
     height: 35px;
@@ -80,7 +75,7 @@
     /* border-radius: 20px; */
     border-bottom: 1px solid gray;
 }
-#edu-email{
+#email{
     width:70%;
     margin-top: 10px;
     height: 35px;
@@ -93,7 +88,7 @@
     color: gray;
     /* border-radius: 20px; */
 }
-#edu-salary{
+#salary{
     width:70%;
     margin-top: 10px;
     background: none;
@@ -107,7 +102,7 @@
     color: gray;
    
 }
-#edu-date{
+#date{
     width:70%;
     margin-top: 10px;
     height: 35px;
@@ -121,21 +116,21 @@
     border-bottom: 1px solid gray;
     /* border-radius: 20px; */
 }
-#edu-update-button{
-   /* margin-left: 20vh; */
+#update-button{
+   margin-left: 20vh;
    background-color: #17bf9e;
    border-radius: 20px;
    width: 10%;
    border: none;
    height: 30px;
 }
-#edu-user-label{
+#user-label{
     font-size: 20px;
     /* color: white; */
     margin-top: 10vw;
     
 }
-#edu-cancel-button{
+#cancel-button{
     background-color: #17bf9e;
     border-radius: 20px;
     width: 10%;

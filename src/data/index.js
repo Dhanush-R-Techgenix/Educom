@@ -106,4 +106,4 @@ const employeesData = [
   }
 ];
 
-export default { employeesData };
+export   {employeesData};
