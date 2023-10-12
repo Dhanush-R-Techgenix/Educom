@@ -4,31 +4,31 @@
     text-decoration: none;
     list-style: none;
 }
-.head-main{
+.edu-main-head-main{
     width: 100%;
     height: auto;
 }
-.header-container{
+.edu-main-header-container{
     width: 100%;
     height: 100px;
   border-bottom: 1px solid lightgray;
     display: flex;
 }
-.head-user{
+.edu-main-head-user{
     width: 10%;
     height: 100px;
    
 }
-.head-user h1{
+.edu-main-head-user h1{
     margin-top: 25px;
     font-family: 'Montserrate';
     font-weight: 800;
     color: #17bf9e;
 }
-.head-user b{
+.edu-main-head-user b{
     color: skyblue;
 }
-.head-user img{
+.edu-main-head-user img{
     width: 100%;
     height: 150px;
     /* margin-bottom: 90px; */
@@ -84,37 +84,37 @@
     font-weight: 300;
 
 }
-.head-cources{
+.edu-main-head-cources{
     width: 15%;
     height: 100px;
     font-size: 20px;
     margin-left: 110vh;
     
 }
-.head-cources h4{
+.edu-main-head-cources h4{
     margin-top: 40px;
     font-family: 'Montserrate';
   
 }
-.head-quiz{
+.edu-main-head-quiz{
     width: 10%;
     height: 100px;
     font-size: 20px;
     margin-left: 50PX;
 
 }
-.head-quiz h4{
+.edu-main-head-quiz h4{
     margin-top: 40px;
     font-family: 'Montserrate';
 }
-.head-comunity{
+.edu-main-head-comunity{
     width: 10%;
     height: 100px;
     font-size: 20px;
     margin-left: 40px
   
 }
-.head-comunity h4{
+.edu-main-head-comunity h4{
     margin-top: 40px;
     font-family: 'Montserrate';
 }
@@ -128,7 +128,7 @@
 
 
 
-.dropbtn {
+.edu-main-dropbtn {
     position: relative;
     font-size: 25px;
     font-family: 'Montserrate';
@@ -138,16 +138,17 @@
    
   }
   
-  .dropdown {
+  .edu-main-dropdown {
     width: 12%;
     height: 67px;
-    margin-top: 33px;
+    margin-top: 37px;
     position: relative;
     display: inline-block;
+    left: 30px;
    
   }
   
-  .dropdown-content {
+  .edu-main-dropdown-content {
     display: none;
     position: absolute;
     background-color: #f1f1f1;
@@ -157,7 +158,7 @@
     z-index: 1;
   }
   
-  .dropdown-content a {
+  .edu-main-dropdown-content a {
     color: black;
     padding: 12px 16px;
     text-decoration: none;
@@ -165,8 +166,8 @@
    text-align: left;
   }
   
-  .dropdown-content a:hover {background-color: lightgray;}
+  .edu-main-dropdown-content a:hover {background-color: lightgray;}
   
-  .dropdown:hover .dropdown-content {  display: block;}
+  .edu-main-dropdown:hover .edu-main-dropdown-content {  display: block;}
   
-  .dropdown:hover .dropbtn { width: 82%; height: 40px;}
+  .edu-main-dropdown:hover .edu-main-dropbtn {  height: 38px;}

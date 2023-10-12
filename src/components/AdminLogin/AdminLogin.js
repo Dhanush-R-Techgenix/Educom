@@ -24,7 +24,7 @@ function AdminLogin() {
     const validPassword = "1234";
 
     if (username === validUsername && password === validPassword) {
-      navigate("/Admin");
+      navigate("/Adminhome");
     } else {
       alert("Invalid username or password");
     }

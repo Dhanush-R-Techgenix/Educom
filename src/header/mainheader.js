@@ -6,14 +6,14 @@ import "./headeruser.css"
 
 function MainHead() {
   return (
-    <div className='head-main'>
-    <div className='header-container'>
-      <div className='head-user'><a href='Header'><img src='logo.png'></img></a></div>
+    <div className='edu-main-head-main'>
+    <div className='edu-main-header-container'>
+      <div className='edu-main-head-user'><a href='Header'><img src='logo.png'></img></a></div>
    
     
-     <a href='Courses'> <div className='head-cources'><h4>My cources</h4></div></a>
-      <a href='Quizhome'><div className='head-quiz'><h4>Quiz</h4></div></a>
-      <a href='Community'><div className='head-comunity'><h4>Community</h4></div></a>
+     <a style={{textDecoration:'none'}} href='Courses'> <div className='edu-main-head-cources'><h4>My cources</h4></div></a>
+      <a style={{textDecoration:'none'}} href='Quizhome'><div className='edu-main-head-quiz'><h4>Quiz</h4></div></a>
+      <a style={{textDecoration:'none'}} href='Community'><div className='edu-main-head-comunity'><h4>Community</h4></div></a>
      {/* <div className='search-bar'>
       <input id='search' type='searchbar' placeholder='search here'/>
      </div> */}

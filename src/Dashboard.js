@@ -6,6 +6,7 @@ import List from './Page/Dashboard/List';
 import Add from './Page/Dashboard/Add';
 import Edit from './Page/Dashboard/Edit';
 import "./dashbord.css"
+import Adminmainheader from './Page/Dashboard/adminmainheader';
 
 function Dashboard() {
 
@@ -48,6 +49,8 @@ function Dashboard() {
 
 
     return (
+        <div>
+            <Adminmainheader/>
         <div className='admin-dash-container'>
             
             <div className='admin-dash-main'>
@@ -85,6 +88,7 @@ function Dashboard() {
                 />
             )}
             </div>
+        </div>
         </div>
     )
 }

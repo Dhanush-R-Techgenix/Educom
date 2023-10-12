@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Swal from 'sweetalert2';
-import "./edit.css"
+import "../Dashboard/edit.css"
 
 function Edit({ employees, selectedEmployee, setEmployees, setIsEditing }) {
 
@@ -60,7 +60,7 @@ function Edit({ employees, selectedEmployee, setEmployees, setIsEditing }) {
             <form  onSubmit={handleUpdate}>
                
                 <div className='edu-edit-user-sub-container'>
-                <h1>Edit user details</h1><br></br><br></br>
+                <h1>Edit user details</h1>
                 <div className='edu-edit-user-sub'>
                 <label id='edu-user-label' htmlFor="firstName">First Name:</label><br></br>
                 <input id="edu-firstName"

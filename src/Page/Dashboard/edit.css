@@ -31,7 +31,6 @@
     /* left: 75vh; */
     /* top: 5vw; */
     /* background-color: #faebd78a; */
-    right: 20vh;
 
    
 }
@@ -39,15 +38,12 @@
     /* text-align: center; */
     color: #17bf9e;
     font-size: 60px;
-    position: relative;
-    right: 20vw;
 }
 .edu-edit-user-sub{
     width:70%;
     height: 80px;
-    /* margin-left: 10vh; */
+    margin-left: 5vh;
     margin-top: 5vh;
-    
 
 }
 #edu-firstName{
@@ -62,7 +58,6 @@
     /* border-radius: 20px; */
     background: none;
     color: gray;
-
    
   
 }
@@ -122,17 +117,18 @@
     /* border-radius: 20px; */
 }
 #edu-update-button{
-   /* margin-left: 20vh; */
+   margin-left: 20vh;
    background-color: #17bf9e;
    border-radius: 20px;
    width: 10%;
    border: none;
    height: 30px;
+   margin-top: 20px;
 }
 #edu-user-label{
     font-size: 20px;
     /* color: white; */
-    margin-top: 10vw;
+    /* margin-top: 10vw; */
     
 }
 #edu-cancel-button{
@@ -140,5 +136,6 @@
     border-radius: 20px;
     width: 10%;
     border: none;
+    margin-top: 20px;
     height: 30px;
 }

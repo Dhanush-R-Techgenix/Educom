@@ -25,6 +25,8 @@ import Sqlto from './courses/sql';
 import Quizfile from './quiz/quizfile';
 import Quizhome from './quiz/quizhome';
 import Community from './header/community';
+import Adminhome from './Page/Dashboard/adminhome';
+import Dashboard from './Dashboard';
 
 function App() {
   return (
@@ -61,6 +63,9 @@ function App() {
       <Route path='Sqlto' element={<Sqlto/>}/>
       <Route path='Quizfile' element={<Quizfile/>}/>
       <Route path='Quizhome' element={<Quizhome/>}/>
+      <Route path='Adminhome' element={<Adminhome/>}/>
+      <Route path='Dashboard' element={<Dashboard/>}/>
+   
       </Routes>
     </Router>
   );
