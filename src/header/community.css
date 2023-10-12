@@ -1,13 +1,15 @@
 *{
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }
-.c-main{
+.community-main{
     height: 1000px;
     width: 100%;
     display: flex;
+    
 }
-.c-profile{
+.community-profile{
     height: 680px;
     width: 23%;
     margin: 20px;
@@ -15,103 +17,107 @@
     border-radius: 10px;
    
 }
-.c-profile img{
+.community-profile img{
     width: 80px;
     height: 80px;
     border-radius: 50%;
-    margin-top:60px ;
+    position: relative;
+    top: 56px;
+    left: 100px;
 }
-.c-profile p{
-    margin-top: 60px;
+.community-profile p{
+    position: relative;
+    top: 50px;
+    left: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.c-profile h3{
-    margin-top: 20px;
+.community-profile h3{
+    position: relative;
+    top: 50px;
+    left: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.p-head{
+.community-p-head{
     height: 100px;
     width: 100%;
-    background-color: #0f90ec;
+    background-color: #17bf9e;
     border-radius: 10px 10px 0px 0px;
 }
-.view-profile{
+.community-view-profile{
     height: 30px;
     width: 80%;
     border-radius: 7px;
     border: solid rgb(212, 185, 185) 1px;
    margin-left: 30px;
-   margin-top: 50px;
+   margin-top: 90px;
 }
-.contributes{
+.community-view-profile b{
+    margin-left: 70px;
+}
+.community-contributes{
     height: 350px;
     width: 100%;
     margin-top: 30px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 15%);
 }
-.contributes h2{
+.community-contributes h2{
     margin-top: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.date{
+.community-date{
     height: 40px;
     width: 90%;
     margin-left: 20px;
     margin-top: 20px;
     background-color: rgb(247, 236, 236);
 }
-#all-time{
+#community-all-time{
     position: relative;
     right: 90px;
     top: 10px;
 }
-#month{
+#community-month p{
     position: relative;
-    bottom: 70px;
+    bottom: 50px;
 }
-#day{
+#community-day{
     position: relative;
     bottom: 150px;
     left: 90px;
 }
-.list{
+.community-list{
     height: 200px;
     width: 100%;
     list-style: none;
 }
 #profile-one{
-    height: 50px;
+    height: 100px;
     width: 100%;
 }
-.profile-one img{
-    height: 50px;
-    width: 50px;
-   position: relative;
-   right: 100px;
-   bottom: 30px;
-    
-}
-#first-name{
+
+#community-first-name{
     position: relative;
     bottom: 130px;
     font-size: 20px;
 }
-.profile-two img{
-    height: 50px;
-    width: 50px;
-   position: relative;
-   right: 100px;
-   bottom: 150px;
+.community-list-one {
+    width: 100%;
+    height: 100px;
+   
+}
+.community-list-one p{
+    font-size: 25px;
     
 }
-#two-name{
+
+#community-two-name{
     position: relative;
     bottom: 250px;
     font-size: 20px;
 }
 
-.c-banner{
+.community-c-banner{
     height: 750px;
     width: 95%;
     margin-top: 15px;
@@ -119,39 +125,39 @@
     border-radius: 10px;
     box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 15%);
 }
-.c-banner img{
+.community-banner img{
     height: 60px;
     width: 60px;
     border-radius: 50%;
     position: relative;
-    right: 40%;
+    left: 35px;
     top: 30px;
 }
 #name{
     position: relative;
-    right: 28%;
+    left: 111px;
     bottom: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 #name-d{
     position: relative;
-    right: 12%;
+    left: 111px;
     bottom: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.banner-details{
+.community-banner-details{
     height: 400px;
     width: 90%;
 }
-.banner-details h3{
+.community-banner-details h3{
 
     position: relative;
-    right: 30%;
+    left: 30px;
 }
-.banner-details p{
+.community-banner-details p{
     position: relative;
-    right: 3px;
+   left: 30px;
     top: 10px;
 }
 #babanner-details-p{
@@ -169,17 +175,17 @@
     margin-top: 10px;
 }
 #why{
-    margin-left: 25px;
+    margin-right: 8px;
     margin-top: 20px;
 }
 #tableau-d{
     height: 150px;
     width: 93%;
-    margin-left: 50px;
+    margin-left: 9px;
     content: initial;
 }
 #learn{
-    margin-left: 30px;
+    margin-top: 50px;
 }
 #code{
 height: 30px;
@@ -187,17 +193,17 @@ width: 10%;
 border-radius: 5px;
 background-color: lightgrey;
 position: relative;
-right: 70px;
+left: 50px;
 top: 20px;
 font-size: 15px;
 }
-#data{
+#datascience{
     height: 30px;
 width: 10%;
 border-radius: 5px;
 background-color: lightgrey;
 position: relative;
-right: 50px;
+left: 227px;
 top: 20px;
 font-size: 15px;
 }
@@ -207,69 +213,72 @@ font-size: 15px;
     border-radius: 5px;
     background-color: lightgrey;
     position: relative;
-    right: 20px;
+    left: 133px;
     top: 20px;
     font-size: 15px;
 }
-.c-like{
+.community-like{
     height: 40px;
     width: 25%;
    border: 1px solid gray;
    border-radius: 8px;
    position: relative;
    left: 30px;
-   top: 100px;
+   top: 280px;
 }
-.c-follow{
+.community-follow{
     height: 40px;
     width: 25%;
    border: 1px solid gray;
    border-radius: 8px;
    position: relative;
    left: 230px;
-   top: 60px;
+   top: 240px;
 }
-.c-share{
+.community-share{
     height: 40px;
     width: 25%;
    border: 1px solid gray;
    border-radius: 8px;
    position: relative;
    left: 420px;
-   top: 18px;
+   top: 200px;
 }
-.c-like p{
-    margin-top: 10px;
+.community-like p{
+    position: relative;
+    left: 60px;
 }
-.c-share p{
-    margin-top: 10px;
+.community-share p{
+    position: relative;
+    left: 60px;
 }
-.c-follow p{
-    margin-top: 10px;
+.community-follow p{
+    position: relative;
+    left: 60px;
 }
  
-.c-comment{
+.community-comment{
     height: 800px;
     width: 50%;
  
 }
 
-.c-head{
+.community-head{
     height: 100px;
     width: 95%;
     box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 15%);
     margin-top: 30px;border-radius: 5px;
 }
-.c-head img{
+.community-head img{
     width: 70px;
     height: 70px;
     border-radius: 50%;
     position: relative;
-    right: 40%;
+    left: 34px;
     top: 20px;
  
 }
-.c-head p{
+.community-head p{
     height: 30px;
     width: 50%;
     border-radius: 5px;
@@ -279,7 +288,7 @@ font-size: 15px;
     left: 130px;
 
 }
-.c-guid{
+.community-guid{
     height: 300px;
     width: 25%;
     margin-top: 50px;
@@ -287,11 +296,11 @@ font-size: 15px;
    
    
 }
-.c-guid h2{
+.community-guid h2{
    
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.guids{
+.community-guids{
     height: 450px;
     width: 100%;
     margin-top: 20px;
@@ -300,70 +309,72 @@ font-size: 15px;
     border-radius: 8px;
     box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 15%);
 }
-.guid-one{
+.community-guid-one{
     height: 130px;
     width: 100%;
     
 }
-.guid-one h2{
+.community-guid-one h2{
     margin-right: 100px;
     padding: 20px;
 }
-.guid-one img{
+.community-guid-one img{
     height: 50px;
     width: 50px;
     position: relative;
-    left: 100px;
-    bottom: 60px;
+    left: 236px;
+    bottom: 86px;
 }
-.guid-one p{
+.community-guid-one p{
     position: relative;
-    bottom: 65px;
+    bottom: 80px;
+    left: 24px;
 }
 
-.guid-two{
+.community-guid-two{
     height: 130px;
     width: 100%;
     
 }
-.guid-two h2{
+.community-guid-two h2{
     margin-right: 150px;
     padding: 20px;
 }
-.guid-two img{
+.community-guid-two img{
     height: 50px;
     width: 50px;
     position: relative;
-    left: 100px;
-    bottom: 60px;
+    left: 238px;
+    bottom: 85px;
     border-radius: 50%;
 }
-.guid-two p{
+.community-guid-two p{
     position: relative;
-    bottom: 65px;
+    bottom: 87px;
     margin-left: 30px;
 }
 
-.guid-three{
+.community-guid-three{
     height: 130px;
     width: 100%;
     
 }
-.guid-three h2{
+.community-guid-three h2{
     margin-right: 170px;
     padding: 20px;
 }
-.guid-three img{
+.community-guid-three img{
     height: 50px;
     width: 50px;
     position: relative;
-    left: 100px;
+    left: 240px;
     bottom: 60px;
     border-radius: 50%;
 }
-.guid-three p{
+.community-guid-three p{
     position: relative;
     bottom: 65px;
-    margin-right: 20px;
+    left: 30px;
+    
   
 }
