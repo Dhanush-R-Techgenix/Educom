@@ -17,7 +17,7 @@ function Banner() {
                 <div className='banner-container'>
                 <div className='banner-head'>
                 <h2>All our <b>top programs</b> just got upgraded with <b>Generative AI modules</b></h2>
-                <h1>Be the first to Change, Adapt and Build in AI</h1>
+                <h1>, Adapt and Build in AI</h1>
                 <button id='button'>Explore programs</button>
                 </div>
                 <div className='banner-image'>
