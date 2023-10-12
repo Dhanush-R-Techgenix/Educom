@@ -22,7 +22,8 @@ function MainHead() {
   <button class="dropbtn"><i style={{color:'#17bf9e'}} class="fa fa-user-circle-o"></i><i style={{position:'relative', color:"#17bf9e", top:'2px', left:'2px',fontSize:'30px'}} class='fa fa-angle-down'></i></button>
   <div class="dropdown-content">
     {/* <a href="QuizHome">Quiz</a> */}
-    <a href="Jobdetails">Logout</a>
+    <a href="Login">Logout</a>
+    <a href="Helpcenter">Help</a>
   
   </div>
   </div>

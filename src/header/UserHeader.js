@@ -23,6 +23,7 @@ function UserHeader() {
   <div class="edu-main-dropdown-content">
     {/* <a href="QuizHome">Quiz</a> */}
     <a href="Login">Logout</a>
+    <a href="Helpcenter">Help</a>
   
   </div>
   </div>

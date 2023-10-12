@@ -21,7 +21,7 @@ return(
     <li><i class='fa fa-angle-right'></i>  About Us</li>
     <li><i class='fa fa-angle-right'></i>  Contact Us</li>
     <li><i class='fa fa-angle-right'></i>  Our Services</li>
-    <li><i class='fa fa-angle-right'></i>  Privecy policy</li>
+    <a href="PrivacyPolicy"><li><i class='fa fa-angle-right'></i>  Privecy policy</li></a>
     <li><i class='fa fa-angle-right'></i>  Terms&condition</li>
     </ul>
 </div>
