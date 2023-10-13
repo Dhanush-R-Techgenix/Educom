@@ -11,7 +11,7 @@ return(
     <li><i class='fa fa-angle-right'></i>  About Us</li>
     <li><i class='fa fa-angle-right'></i>  Contact Us</li>
     <li><i class='fa fa-angle-right'></i>  Our Services</li>
-    <li><i class='fa fa-angle-right'></i>  Privecy policy</li>
+    <a style={{textDecoration:'none'}} href="PrivacyPolicy"><li><i class='fa fa-angle-right'></i>  Privecy policy</li></a>
     <li><i class='fa fa-angle-right'></i>  Terms&condition</li>
     </ul>
 </div>
@@ -21,11 +21,11 @@ return(
     <li><i class='fa fa-angle-right'></i>  About Us</li>
     <li><i class='fa fa-angle-right'></i>  Contact Us</li>
     <li><i class='fa fa-angle-right'></i>  Our Services</li>
-    <li><i class='fa fa-angle-right'></i>  Privecy policy</li>
+    <a style={{textDecoration:'none'}} href="PrivacyPolicy"><li><i class='fa fa-angle-right'></i>  Privecy policy</li></a>
     <li><i class='fa fa-angle-right'></i>  Terms&condition</li>
     </ul>
 </div>
-<div className="edu-footer-sub">
+<div style={{width:'23%'}} className="edu-footer-sub">
     <h1>Contact</h1>
     <ul>
         <li><i id="edu-loc" style={{fontSize:'30px'}} class='fa fa-map-marker'></i>    Bangalore India</li>

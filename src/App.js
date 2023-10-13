@@ -28,6 +28,9 @@ import Community from './header/community';
 import Adminhome from './Page/Dashboard/adminhome';
 import Dashboard from './Dashboard';
 import MainHead from './header/mainheader';
+import Helpcenter from './helpcenter/helpcenter';
+import HelpContact from './helpcenter/main';
+import PrivacyPolicy from './helpcenter/privacy';
 
 
 function App() {
@@ -68,6 +71,9 @@ function App() {
       <Route path='Adminhome' element={<Adminhome/>}/>
       <Route path='Dashboard' element={<Dashboard/>}/>
       <Route path='UserHeader' element={<UserHeader/>}/>
+      <Route path='Helpcenter' element={<Helpcenter/>}/>
+      <Route path='HelpContact' element={<HelpContact/>}/>
+      <Route path='PrivacyPolicy' element={<PrivacyPolicy/>}/>
 
      
       </Routes>

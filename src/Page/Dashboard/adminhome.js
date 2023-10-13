@@ -17,11 +17,11 @@ function Adminhome() {
         <div className='edu-adm-home-head-button'>
           <div className='edu-adm-home-head-dashboard'>
             <a  href='Dashboard'><i style={{ fontSize: '25px', color: '#17bf9e' }} class="fa fa-bar-chart"></i></a><br></br>
-            <a style={{textDecoration:'none'}} href='Dashboard'><p style={{ position: 'relative', top: '5px', color: 'black', fontSize: '20px', width: '150px', border: 'none' }}>Dashboard</p></a>
+            <a style={{textDecoration:'none'}} href='Dashboard'><p style={{ position: 'relative', top: '5px', color: 'black', fontSize: '20px', width: '150px', border: 'none',right:'10px' }}>Dashboard</p></a>
           </div>
           <div className='edu-adm-home-head-logout'>
             <i style={{ fontSize: '30px',color:'#17bf9e' }} class='fa fa-power-off'></i><br />
-            <p style={{ position: 'relative', fontSize: '20px', width: '150px', border: 'none' }}>Logout</p>
+            <p style={{ position: 'relative', fontSize: '20px', width: '150px', border: 'none',right:'10px',color:'black' }}>Logout</p>
           </div>
         </div>
       </div>

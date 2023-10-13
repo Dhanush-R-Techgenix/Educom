@@ -21,10 +21,16 @@
     display: flex;
 }
 .edu-footer-sub{
-    width: 30%;
+    width: 20%;
     height: 300px;
     text-align: left;
-    padding: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.edu-footer-sub ul{
+    position: relative;
+    right: 30px;
+    width: 100%;
 }
 .edu-footer-sub h1{
     color: black;
@@ -54,6 +60,8 @@
     width: 100%;
     height: auto;
     margin-top: 20px;
+    position: relative;
+    right: 7px;
 }
 #edu-twit{
     font-size: 30px;

@@ -43,7 +43,7 @@ function Cards() {
                     <img src='sales1.jpg'></img>
                 </div>
                 <div className='edu-card-para'>
-                    <h3>Salesforce administrator and app builder</h3>
+                    <h3>Salesforce administrator </h3>
                     <div className='edu-card-star'>
                         <span style={{color:'#17bf9e'}} class="fa fa-star checked"></span>
                         <span style={{color:'#17bf9e'}} class="fa fa-star checked">

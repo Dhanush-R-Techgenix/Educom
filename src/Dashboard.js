@@ -7,7 +7,6 @@ import Add from './Page/Dashboard/Add';
 import Edit from './Page/Dashboard/Edit';
 import "./dashbord.css"
 import Adminmainheader from './Page/Dashboard/adminmainheader';
-import MainHead from './header/mainheader';
 
 function Dashboard() {
 
@@ -51,7 +50,7 @@ function Dashboard() {
 
     return (
         <div>
-           <MainHead/>
+           <Adminmainheader/>
         <div className='admin-dash-container'>
             
             <div className='admin-dash-main'>
