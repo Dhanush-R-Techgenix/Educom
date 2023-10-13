@@ -75,6 +75,7 @@ function App() {
       <Route path='Helpcenter' element={<Helpcenter/>}/>
       <Route path='HelpContact' element={<HelpContact/>}/>
       <Route path='PrivacyPolicy' element={<PrivacyPolicy/>}/>
+      
 
      
       </Routes>
