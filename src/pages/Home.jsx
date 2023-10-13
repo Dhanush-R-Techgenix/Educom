@@ -25,9 +25,9 @@ const Home = () => {
       <ChooseUs />
       <Features />
       <FreeCourse />
-      <Testimonials />
+      {/* <Testimonials />
       <Newsletter />
-      <Footer />
+      <Footer /> */}
     </Fragment>
   );
 };

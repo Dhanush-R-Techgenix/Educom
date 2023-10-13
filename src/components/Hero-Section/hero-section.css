@@ -1,8 +1,14 @@
 .hero__content h2 {
   font-weight: 600;
   line-height: 55px;
+  position: relative;
+  right: 12vw;
 }
 
+#Text-Main{
+  position: relative;
+  right: 12vw;
+}
 .hero__content {
   padding-top: 80px;
 }
@@ -10,6 +16,7 @@
   border: none;
   outline: none;
   padding: 7px 10%;
+  
 }
 
 .search {
@@ -20,4 +27,9 @@
   align-items: center;
   border-radius: 50px;
   margin-top: 20px;
+  position: relative;
+  right: 12vw;
+}
+#MainImage{
+  width: 163% !important;
 }

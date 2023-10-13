@@ -13,6 +13,7 @@
 }
 
 .nav__item a {
+  left: 20vw;
   position: relative;
   bottom: 10vh;
   font-weight: 500;
@@ -27,6 +28,7 @@
 }
 
 .nav__right p {
+  left: 19vw;
   position: relative;
   bottom: 10vh;
   font-weight: 500;
@@ -88,6 +90,7 @@
 }
 
 .MainLogo{
+  right: 20vw;
   width: 17vw;
   position: relative;
   bottom: 4vh;

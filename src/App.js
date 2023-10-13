@@ -31,6 +31,7 @@ import MainHead from './header/mainheader';
 import Helpcenter from './helpcenter/helpcenter';
 import HelpContact from './helpcenter/main';
 import PrivacyPolicy from './helpcenter/privacy';
+import Testimonials from './components/Testimonial/Testimonials';
 
 
 function App() {
@@ -43,7 +44,7 @@ function App() {
         <Route path="/AdminLogin" element={<AdminLogin />} />
         <Route path="/UserLogin" element={<UserLogin />} />
         <Route path="/AboutUs" element={<AboutUs />} />
-
+      
 
 
 
