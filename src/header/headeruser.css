@@ -4,31 +4,31 @@
     text-decoration: none;
     list-style: none;
 }
-.head-main{
+.edu-head-main{
     width: 100%;
     height: auto;
 }
-.header-container{
+.edu-header-container{
     width: 100%;
     height: 100px;
   border-bottom: 1px solid lightgray;
     display: flex;
 }
-.head-user{
+.edu-head-user{
     width: 10%;
     height: 100px;
    
 }
-.head-user h1{
+.edu-head-user h1{
     margin-top: 25px;
     font-family: 'Montserrate';
     font-weight: 800;
     color: #17bf9e;
 }
-.head-user b{
+.edu-head-user b{
     color: skyblue;
 }
-.head-user img{
+.edu-head-user img{
     width: 100%;
     height: 150px;
     /* margin-bottom: 90px; */
@@ -37,84 +37,46 @@
    
    
 }
-#search
-{
-    outline: none;
-    border: none;
-    height: 30px;
-    text-align: center;
-    border-radius:10px ;
-    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 15%);
-    
-}
-.search-bar{
-    width: 17%;
-    height: 40px;
-    position: relative;
- 
-    margin-top: 38px;
-}
-.head-search{
-    width: 10%;
-    height: 100px;
-   
-   
-}
-.head-search i{
-    font-size: 30px;
-    color: white;
-    margin-top: 30px;
-}
-.head-border{
+
+.edu-head-border{
     height: 50px;
     border: 1px solid lightgray;
     margin-left: 10px;
     margin-top: 20px;
 }
 
-.head-study{
-    width: 10%;
-    height: 100px;
-    margin-top: 20px;
-    
-}
-.head-study h4{
-    font-size: 25px;
-    font-family: 'Montserrate';
-    font-weight: 300;
 
-}
-.head-cources{
+.edu-head-cources{
     width: 15%;
     height: 100px;
     font-size: 20px;
     margin-left: 110vh;
     
 }
-.head-cources h4{
+.edu-head-cources h4{
     margin-top: 40px;
     font-family: 'Montserrate';
   
 }
-.head-quiz{
+.edu-head-quiz{
     width: 10%;
     height: 100px;
     font-size: 20px;
     margin-left: 50PX;
 
 }
-.head-quiz h4{
+.edu-head-quiz h4{
     margin-top: 40px;
     font-family: 'Montserrate';
 }
-.head-comunity{
+.edu-head-comunity{
     width: 10%;
     height: 100px;
     font-size: 20px;
     margin-left: 40px
   
 }
-.head-comunity h4{
+.edu-head-comunity h4{
     margin-top: 40px;
     font-family: 'Montserrate';
 }

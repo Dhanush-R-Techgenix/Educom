@@ -27,6 +27,7 @@ import Quizhome from './quiz/quizhome';
 import Community from './header/community';
 import Adminhome from './Page/Dashboard/adminhome';
 import Dashboard from './Dashboard';
+import MainHead from './header/mainheader';
 
 
 function App() {
@@ -66,6 +67,8 @@ function App() {
       <Route path='Quizhome' element={<Quizhome/>}/>
       <Route path='Adminhome' element={<Adminhome/>}/>
       <Route path='Dashboard' element={<Dashboard/>}/>
+      <Route path='UserHeader' element={<UserHeader/>}/>
+
      
       </Routes>
     </Router>
