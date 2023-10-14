@@ -28,9 +28,9 @@ function UserFooter() {
                 <div style={{ width: '23%' }} className="edu-footer-sub">
                     <h1>Contact</h1>
                     <ul>
-                        <li><i id="edu-loc" style={{ fontSize: '30px' }} class='fa fa-map-marker'></i>    Bangalore India</li>
-                        <li><i id="edu-phone" style={{ fontSize: '25px' }} class='fa fa-phone-square'></i>     +919900602520</li>
-                        <li><i id="edu-mail" class="fa fa-envelope"></i>     info@ajaykumar.com</li>
+                        <li><i id="edu-loc" style={{ fontSize: '30px',color:'black' }} class='fa fa-map-marker'></i>    Bangalore India</li>
+                        <li><i id="edu-phone" style={{ fontSize: '25px',color:'black' }} class='fa fa-phone-square'></i>     +919900602520</li>
+                        <li><i id="edu-mail" style={{ fontSize: '25px',color:'black' }} class="fa fa-envelope"></i>     info@ajaykumar.com</li>
                     </ul>
                     <div className="edu-footer-icon">
                         <a href="https://twitter.com/"> <i id="edu-twit" class="fa fa-twitter"></i></a>
