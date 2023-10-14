@@ -16,7 +16,6 @@ function PrivacyPolicy() {
                         By using the Services, you agree to the terms of this Privacy Policy. You shouldn’t use the Services if you don’t agree with this Privacy Policy or any other agreement that governs your use of the Services.
 
                         <h3> What Data We Get</h3>
-                        {/* <b>Unless otherwise provided in this Privacy Policy, the terms capitalized in the Privacy Policy shall have the meaning as provided hereunder:</b>  */}
                         <div className='policy-add'>
                     <img src='https://img.freepik.com/free-vector/shield_78370-582.jpg?w=740&t=st=1697000427~exp=1697001027~hmac=c01aa9fae53a0bf723f5ce17df6730bef28cb48a80e993254f9b47554036fba0'/>
                     </div>

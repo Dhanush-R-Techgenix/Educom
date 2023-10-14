@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import Swal from 'sweetalert2';
 import  employeesData from './data';
-// import Header from './Page/Dashboard/Header';
 import List from './Page/Dashboard/List';
 import Add from './Page/Dashboard/Add';
 import Edit from './Page/Dashboard/Edit';
@@ -54,8 +53,7 @@ function Dashboard() {
         <div className='admin-dash-container'>
             
             <div className='admin-dash-main'>
-            {/* <img style={{width:'100%', height:'650px'}} src='https://img.freepik.com/premium-vector/digital-learning-with-video-online-education-concept-blank-space-laptop_255625-425.jpg?w=2000'></img> */}
-            {/* List */}
+            
             </div>
             <div className='admin-dash-sub'>
             {!isAdding && !isEditing && (

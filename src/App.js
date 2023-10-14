@@ -44,40 +44,40 @@ function App() {
         <Route path="/AdminLogin" element={<AdminLogin />} />
         <Route path="/UserLogin" element={<UserLogin />} />
         <Route path="/AboutUs" element={<AboutUs />} />
-      
 
 
 
 
-        <Route path='/UserHeader' element={<UserHeader/>}/>
-    
-      <Route path='Community' element={<Community/>}/>
-      <Route path='UserCourses' element={<UserCourses/>}/>
-      <Route path='Artifici' element={<Artifici/>}/>
-      <Route path='Begin' element={<Begin/>}/>
-      <Route path='Chain' element={<Chain/>}/>
-      <Route path='Cyber' element={<Cyber/>}/>
-      <Route path='Analy' element={<Analy/>}/>
-      <Route path='Introd' element={<Introd/>}/>
-      <Route path='Jbegi' element={<Jbegi/>}/>
-      <Route path='Machin' element={<Machin/>}/>
-      <Route path='Msex' element={<Msex/>}/>
-      <Route path='Power' element={<Power/>}/>
-      <Route path='Pyth' element={<Pyth/>}/>
-      <Route path='Snap' element={<Snap/>}/>
-      <Route path='Social' element={<Social/>}/>
-      <Route path='Sqlto' element={<Sqlto/>}/>
-      <Route path='Quizfile' element={<Quizfile/>}/>
-      <Route path='Quizhome' element={<Quizhome/>}/>
-      <Route path='Adminhome' element={<Adminhome/>}/>
-      <Route path='Dashboard' element={<Dashboard/>}/>
-      <Route path='UserHeader' element={<UserHeader/>}/>
-      <Route path='Helpcenter' element={<Helpcenter/>}/>
-      <Route path='HelpContact' element={<HelpContact/>}/>
-      <Route path='PrivacyPolicy' element={<PrivacyPolicy/>}/>
-      
 
-     
+        <Route path='/UserHeader' element={<UserHeader />} />
+
+        <Route path='Community' element={<Community />} />
+        <Route path='UserCourses' element={<UserCourses />} />
+        <Route path='Artifici' element={<Artifici />} />
+        <Route path='Begin' element={<Begin />} />
+        <Route path='Chain' element={<Chain />} />
+        <Route path='Cyber' element={<Cyber />} />
+        <Route path='Analy' element={<Analy />} />
+        <Route path='Introd' element={<Introd />} />
+        <Route path='Jbegi' element={<Jbegi />} />
+        <Route path='Machin' element={<Machin />} />
+        <Route path='Msex' element={<Msex />} />
+        <Route path='Power' element={<Power />} />
+        <Route path='Pyth' element={<Pyth />} />
+        <Route path='Snap' element={<Snap />} />
+        <Route path='Social' element={<Social />} />
+        <Route path='Sqlto' element={<Sqlto />} />
+        <Route path='Quizfile' element={<Quizfile />} />
+        <Route path='Quizhome' element={<Quizhome />} />
+        <Route path='Adminhome' element={<Adminhome />} />
+        <Route path='Dashboard' element={<Dashboard />} />
+        <Route path='UserHeader' element={<UserHeader />} />
+        <Route path='Helpcenter' element={<Helpcenter />} />
+        <Route path='HelpContact' element={<HelpContact />} />
+        <Route path='PrivacyPolicy' element={<PrivacyPolicy />} />
+
+
+
       </Routes>
     </Router>
   );

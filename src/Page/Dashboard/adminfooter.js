@@ -4,7 +4,7 @@ import "./adminfooter.css"
 function Adminfooter() {
   return (
     <div>
-        <div className='edu-adm-home-footer-container'>
+      <div className='edu-adm-home-footer-container'>
         <div className='edu-adm-home-footer'>
           <div className='edu-adm-home-footer-main'>
             <div style={{ position: 'relative', top: '10px', height: '30px' }} ><p>Home</p></div>
@@ -18,10 +18,10 @@ function Adminfooter() {
           <p>@ Copyright 2013-2014 Educom</p>
         </div>
         <div className='edu-adm-home-footer-icons'>
-          <i style={{color:'#17bf9e'}} class="fa fa-twitter-square"></i>
-          <i style={{color:'#17bf9e'}} class="fa fa-facebook-f"></i>
-          <i style={{color:'#17bf9e'}} class="fa fa-instagram"></i>
-          <i style={{color:'#17bf9e'}} class="fa fa-youtube-play"></i>
+          <i style={{ color: '#17bf9e' }} class="fa fa-twitter-square"></i>
+          <i style={{ color: '#17bf9e' }} class="fa fa-facebook-f"></i>
+          <i style={{ color: '#17bf9e' }} class="fa fa-instagram"></i>
+          <i style={{ color: '#17bf9e' }} class="fa fa-youtube-play"></i>
         </div>
       </div>
     </div>
