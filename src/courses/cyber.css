@@ -1,36 +1,42 @@
 .one-cyber h2{
-    margin-right: 890px;
+    margin-right: 799px;
     position: relative;
     top: 20px;
     color: aliceblue;
+    margin-left:45px;
+
 }
 .one-cyber i{
     position: relative;
-    right: 590px;
-    top: 20px;
+    /* right: 590px; */
+    left: 45px;
+    top: 50px;
     color: gold;
 }
 .one-cyber h4{
-    margin-right: 940px;
+    margin-right: 640px;
     position: relative;
-    bottom: 23px;
+    bottom: -30px;
     font-weight: 400;
     color: aliceblue;
+    font-size:16px;
+    margin-left:334px;
 }
 .one-cyber h5{
     margin-right: 610px;
     position: relative;
-    bottom: 68px;
+    bottom: -2px;
     font-size: 16px;
     font-weight: 400;
     color: aliceblue;
+    margin-left:177px;
 }
 .one-cyber p{
     float: left;
     margin-top: -10px;
     margin-left: 45px;
     position: relative;
-    bottom: 30px;
+    bottom: -69px;
     color: aliceblue;
 
 
@@ -43,8 +49,10 @@
     border-radius: 30px;
 }
 .cybe-skill1 h2{
-    margin-right: 1000px;
+    margin-right: 831px;
     font-weight: 600;
+    margin-left:48px;
+    font-size:29px;
 
 }
 .cybe-skill1 p{
@@ -57,22 +65,28 @@
 .cybe-skill1{
     width: 100%;
     height: 650px;
-    background-color: azure;
+    background-color: rgb(191, 198, 209);
     border-radius: 30px;
+    position:relative;
+    bottom:-3px;
 }
 
 .cybe-learn h2{
-    margin-right: 1050px;
+    margin-right: 1017px;
     font-weight: 600;
+    margin-left:45px;
+    font-size:29px;
+
+
 
 }
 #exe{
 margin-right: 70%;
     position: relative;
     top: 20px;
-    width: 245px;
+    width: 145px;
     height: 30px;
-    background-color: rgb(219, 248, 248);
+    background-color: white;
     margin-left: 50px;
     border-radius: 15px;
 
@@ -84,7 +98,7 @@ margin-right: 70%;
     top: 40px;
     width: 235px;
     height: 30px;
-    background-color: rgb(219, 248, 248);
+    background-color: white;
     margin-left: 50px;
     border-radius: 15px;
 }
@@ -94,7 +108,7 @@ margin-right: 70%;
     top: 60px;
     width: 225px;
     height: 30px;
-    background-color: rgb(219, 248, 248);
+    background-color: white;
     margin-left: 50px;
     border-radius: 15px;
 }
@@ -102,9 +116,9 @@ margin-right: 70%;
     margin-right: 60%;
     position: relative;
     top: 15px;
-    width: 220px;
+    width: 200px;
     height: 30px;
-    background-color: rgb(219, 248, 248);
+    background-color: white;
     margin-left: 320px;
     border-radius: 15px;
 }
@@ -121,8 +135,10 @@ margin-right: 70%;
 .cybe-learn{
     width: 100%;
     height: 300px;
-    background-color:  azure;
+    background-color:  rgb(191, 198, 209);
     border-radius: 30px;
+    position:relative;
+    top:6px;
 }
 .container5{
     width: 90 !important;
@@ -134,6 +150,8 @@ margin-right: 70%;
     height: 500px;
     background-color:azure ;
     border-radius: 30px;
+    position:relative;
+    top:9px;
 }
 .intr-prod{
     width: 28%;
@@ -167,10 +185,10 @@ border-radius: 30px;
 }
 .intr-prod p{
     float: left;
-    margin-top: -10px;
+    margin-top: -21px;
     margin-left: 20px;
     position: relative;
-    top: 60px;
+    top: 104px;
 
 }
 
@@ -179,14 +197,18 @@ border-radius: 30px;
     width:0 auto;
 
 }
-.intr-reviw{
+.intr-revi3{
     width: 100%;
-    height: 300px;
-background-color: azure ;
+    height: 500px;
+background-color: rgb(191, 198, 209) ;
 border-radius: 30px;
+position:relative;
+top:14px;
 }
-.intr-reviw h2{
+.intr-revi3 h2{
     margin-right: 750px;
+    font-size:29px;
+    margin-left:46px;
 }
 .intr-rev{
     width: 25%;

@@ -39,6 +39,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/Home" element={<Home />} />
         <Route path="/HeroSection" element={<HeroSection />} />
         <Route path="/Login" element={<Login />} />
         <Route path="/AdminLogin" element={<AdminLogin />} />

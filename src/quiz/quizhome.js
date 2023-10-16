@@ -26,7 +26,7 @@ function Quizhome() {
          
           <div className='adm-home-head-logout'>
 <a href='UserHeader'><i style={{fontSize:'30px',position:'relative',right:'60px',color:'black'}} class='fa fa-home'></i><br/></a>
-<a href='UserHeader' style={{textDecoration:'none'}}><p style={{position:'relative',fontSize:'20px',left:'10vh',color:'black', width:'150px',border:'none'}}>Home</p></a>
+<a href='UserHeader' style={{textDecoration:'none'}}><p style={{position:'relative',fontSize:'20px',left:'12vh',color:'black', width:'150px',border:'none'}}>Home</p></a>
 </div>
         </div>
         

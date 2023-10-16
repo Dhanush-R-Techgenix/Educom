@@ -20,8 +20,8 @@ function Adminhome() {
             <a style={{ textDecoration: 'none' }} href='Dashboard'><p style={{ position: 'relative', top: '5px', color: 'black', fontSize: '20px', width: '150px', border: 'none', right: '10px' }}>Dashboard</p></a>
           </div>
           <div className='edu-adm-home-head-logout'>
-            <a href='Adminlogin'> <i style={{ fontSize: '30px', color: '#17bf9e' }} class='fa fa-power-off'></i><br /></a>
-            <a style={{ textDecoration: 'none' }} href='Adminlogin'><p style={{ position: 'relative', fontSize: '20px', width: '150px', border: 'none', right: '10px', color: 'black' }}>Logout</p></a>
+            <a href='Home'> <i style={{ fontSize: '30px', color: '#17bf9e' }} class='fa fa-power-off'></i><br /></a>
+            <a style={{ textDecoration: 'none' }} href='Home'><p style={{ position: 'relative', fontSize: '20px', width: '150px', border: 'none', right: '10px', color: 'black' }}>Logout</p></a>
           </div>
         </div>
       </div>

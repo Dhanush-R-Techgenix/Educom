@@ -1,37 +1,44 @@
-.sub-pyth h2{
+.sub-pyth h1{
     margin-right: 890px;
     position: relative;
     top: 20px;
     color: aliceblue;
+    margin-left:2px;
+    font-size:27px;
 }
 .sub-pyth i{
     position: relative;
-    right: 590px;
-    top: 20px;
+    /* right: 590px; */
+    left: 21px;
+    top: 57px;
     color: gold;
 }
 .sub-pyth h4{
     margin-right: 940px;
     position: relative;
-    bottom: 23px;
+    bottom: -37px;
     font-weight: 400;
     color: aliceblue;
+    margin-left:125px;
+    font-size:15px
 }
 .sub-pyth h5{
     margin-right: 610px;
     position: relative;
-    bottom: 68px;
-    font-size: 16px;
+    bottom: -14px;
+    font-size: 15px;
     font-weight: 400;
     color: aliceblue;
+    margin-left:284px;
 }
 .sub-pyth p{
     float: left;
-    margin-top: -10px;
-    margin-left: 45px;
+    margin-top: -22px;
+    margin-left: 15px;
     position: relative;
-    bottom: 30px;
+    bottom: -79px;
     color: aliceblue;
+    top:84px
 
 
 }
@@ -41,38 +48,51 @@
     /* background-color: rgb(99, 110, 207); */
     background-image: url(https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/15/aa9a0b99-ed76-48ea-8c14-4adcd42c91b1.jpg);
     border-radius: 30px;
+    position:relative;
+
 }
 .sub-skill1 h2{
     margin-right: 1050px;
     font-weight: 600;
+    position:relative;
+    top:16px;
+    margin-left:10px;
+    font-size:29px;
+
 
 }
 .sub-skill1 p{
     float: left;
     margin-right: 1000px;
-    margin-left: 50px;
+    margin-left: 20px;
+    position:relative;
+    bottom:-20px;
     /* margin-bottom: -px; */
 
 }
 .sub-skill1{
     width: 100%;
     height: 500px;
-    background-color: azure;
+    background-color: rgb(191, 198, 209);
     border-radius: 30px;
+    position:relative;
+    top:3px
 }
 
 .pyth-learn h2{
     margin-right: 1050px;
     font-weight: 600;
+    font-size:29px;
+    margin-left:10px;
 
 }
 #prof{
 margin-right: 70%;
     position: relative;
     top: 20px;
-    width: 245px;
+    width: 210px;
     height: 30px;
-    background-color: rgb(219, 248, 248);
+    background-color: white;
     margin-left: 50px;
     border-radius: 15px;
 
@@ -82,9 +102,9 @@ margin-right: 70%;
     margin-right: 60%;
     position: relative;
     top: 40px;
-    width: 235px;
+    width: 200px;
     height: 30px;
-    background-color: rgb(219, 248, 248);
+    background-color: white;
     margin-left: 50px;
     border-radius: 15px;
 }
@@ -92,9 +112,9 @@ margin-right: 70%;
     margin-right: 60%;
     position: relative;
     top: 60px;
-    width: 225px;
+    width: 150px;
     height: 30px;
-    background-color: rgb(219, 248, 248);
+    background-color: white;
     margin-left: 50px;
     border-radius: 15px;
 }
@@ -102,9 +122,9 @@ margin-right: 70%;
     margin-right: 60%;
     position: relative;
     top: 15px;
-    width: 220px;
+    width: 170px;
     height: 30px;
-    background-color: rgb(219, 248, 248);
+    background-color: white;
     margin-left: 320px;
     border-radius: 15px;
 }
@@ -112,17 +132,19 @@ margin-right: 70%;
     margin-right: 60%;
     position: relative;
     top: 30px;
-    width: 210px;
+    width: 130px;
     height: 30px;
-    background-color: rgb(219, 248, 248);
+    background-color: white;
     margin-left: 50px;
     border-radius: 15px;
 }
 .pyth-learn{
     width: 100%;
     height: 300px;
-    background-color:  azure;
+    background-color: rgb(191, 198, 209) ;
     border-radius: 30px;
+    position:relative;
+    top:7px;
 }
 .container2{
     width: 90 !important;
@@ -132,13 +154,15 @@ margin-right: 70%;
 .pyth-proj{
     width: 100%;
     height: 500px;
-    background-color:azure ;
+    background-color:rgb(191, 198, 209) ;
     border-radius: 30px;
+    position:relative;
+    top:10px;
 }
 .sub-prod{
     width: 28%;
 height: 400px; 
-background-color: rgb(234, 242, 242);;   
+background-color: rgb(234, 242, 242);
 float: left;
 margin-left: 30px;
 position: relative;
@@ -148,10 +172,17 @@ border-radius: 30px;
 }
 .pyth-proj h2{
     margin-right: 950px;
+    margin-left:20px;
+    font-size:29px;
 }
 .sub-prod h4{
     margin-right: 270px;
-    font-weight: 500;
+    font-weight: 300;
+    font-size:17px;
+    position:relative;
+    top:10px;
+    margin-left:10px;
+
 }
 .sub-prod img{
     width: 120px;
@@ -161,14 +192,18 @@ border-radius: 30px;
     height: 50px;
 }
 .sub-prod h3{
-   font-weight: 500; 
+   font-weight: 500;
+   font-size:19px;
+   position:relative;
+   top:32px;
+
    /* float: left; */
 
 }
 .sub-prod p{
     float: left;
     margin-top: -10px;
-    margin-left: 20px;
+    margin-left: 8px;
     position: relative;
     top: 60px;
 
@@ -181,12 +216,18 @@ border-radius: 30px;
 }
 .sub-reviw{
     width: 100%;
-    height: 300px;
-background-color: azure ;
+    height: 400px;
+background-color: rgb(191, 198, 209) ;
 border-radius: 30px;
+position:relative;
+top:15px;
+
 }
 .sub-reviw h2{
-    margin-right: 750px;
+    margin-right: 710px;
+    margin-left:20px;
+    font-size:29px;
+    font-weight:500;
 }
 .sub-rev{
     width: 25%;
@@ -204,25 +245,29 @@ border-radius: 30px;
 }
 .pyth-rev p{
     float: left;
-    margin-top: -10px;
+    margin-top: -25px;
     position: relative;
-    top: 10px;
+    top: 40px;
     margin-left: 20px;
 }
 .pyth-rev i{
     color: gold;
     position: relative;
-    bottom: 60px;
+    bottom: 65px;
+    left: 210px;
 }
 .pyth-rev img{
     width: 100px;
     position: relative;
-    right: 170px;
+    right: 586px;
     top: 50px;
     height: 90px;
+    bottom-radius:20px;
 }
 .pyth-rev h3{
     position: relative;
     bottom: 60px;
+    margin-left:210px;
+
 }
 

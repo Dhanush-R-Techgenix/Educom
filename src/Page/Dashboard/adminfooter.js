@@ -9,7 +9,7 @@ function Adminfooter() {
           <div className='edu-adm-home-footer-main'>
             <div style={{ position: 'relative', top: '10px', height: '30px' }} ><p>Home</p></div>
             <div style={{ position: 'relative', top: '10px', height: '20px' }} className='edu-adm-home-footer-border'></div>
-            <div style={{ position: 'relative', top: '10px', height: '30px' }} ><p>Peivacy policy</p></div>
+            <div style={{ position: 'relative', top: '10px', height: '30px' }} ><p>Privacy policy</p></div>
 
           </div><br></br><br></br>
         </div>

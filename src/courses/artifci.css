@@ -3,10 +3,12 @@
 }
 .sub-arti h1{
 
-    margin-right: 50%;
+    margin-right: 20%;
     position: relative;
     top: 20px;
     color: rgb(248, 243, 243);
+    margin-left:41px;
+    font-size:32px;
     
 }
 .sub-arti p{
@@ -33,25 +35,28 @@
     /* margin-right: 200px; */
     position: relative;
     /* float: left; */
-    right: 950px;
-    top: 50px;
+    right: 739px;
+    top: 32px;
     
     /* margin-left: 100px; */
 }
 .sub-arti h4{
     position: relative;
-    margin-right: 952px;
-    bottom: 32px;
+    margin-right: 890px;
+    bottom: 79px;
     font-weight: 500;
     color: aliceblue;
+    font-size:15px;
+    margin-left:351px;
 }
 .sub-arti h5{
     position: relative;
     margin-right: 600px;
-    bottom: 74px;
+    bottom: 107px;
     font-size: 15px;
     font-weight: 500;
     color: aliceblue;
+    margin-left:180px;
 }
 .arti-skill{
     width: 100%;
@@ -59,11 +64,15 @@
     background-color: rgb(191, 198, 209);
     /* background-image: url(); */
     border-radius: 30px;
+    position:relative;
+    top:3px;
 }
 .arti-skill h2{
     position: relative;
-    margin-right: 77%;
+    margin-right: 20%;
     top: 10px;
+    font-size:29px;
+    margin-left:36px;
     /* color: ali; */
     
 
@@ -72,15 +81,23 @@
     margin-right: 55%;
     float: left;
     margin-left: 55px;
+    position:relative;
+    top:22px;
 }
 .arti-lear{
     width: 100%;
     height: 300px;
     background-color: rgb(191, 198, 209);
     border-radius: 30px;
+    position:relative;
+    top:6px;
 }
 .arti-lear h2{
-    margin-right: 78%;
+    margin-right: 60%;
+    margin-left:41px;
+    font-size:29px;
+    position:relative;
+    top:10px;
 
 }
 #adev{
@@ -193,12 +210,17 @@ border-radius: 20px;
 .arti-revu i{
     color: gold;
     position: relative;
-    bottom: 85px;
+    bottom: 65px;
+    left: 160px;
 }
 .areviws h2{
     position: relative;
     font-weight: 500;
-    margin-right: 850px;
+    margin-right: 750px;
+    margin-left:39px;
+    font-size:29px;
+    position:relative;
+    top:10px;
     
 
 }
@@ -210,6 +232,9 @@ border-radius: 20px;
 }
 .arti-revu h3{
     position: relative;
-    bottom: 80px;
+    bottom: 70px;
+    margin-left:162px;
+    font-size:20px;
+
 }
     

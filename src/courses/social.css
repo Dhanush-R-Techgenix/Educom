@@ -3,10 +3,12 @@
 }
 .sub-social h1{
 
-    margin-right: 60%;
+    margin-right: 30%;
     position: relative;
     top: 20px;
     color: rgb(248, 243, 243);
+    font-size:32px;
+    margin-left:44px;
     
 }
 .sub-social p{
@@ -40,31 +42,39 @@
 }
 .sub-social h4{
     position: relative;
-    margin-right: 952px;
-    bottom: 32px;
+    margin-right: 852px;
+    bottom: 84px;
     font-weight: 500;
     color: aliceblue;
+    font-size:14px;
+    margin-left:356px;
 }
 .sub-social h5{
     position: relative;
     margin-right: 600px;
-    bottom: 74px;
+    bottom: 109px;
     font-size: 15px;
     font-weight: 500;
     color: aliceblue;
+    margin-left:184px;
 }
 .social-skill{
     width: 100%;
-    height: 580px;
+    height: 520px;
     background-color: rgb(191, 198, 209);
     /* background-image: url(); */
     border-radius: 30px;
+    position:relative;
+    top:3px;
+
 }
 .social-skill h2{
     position: relative;
-    margin-right: 77%;
+    margin-right: 60%;
     top: 10px;
     /* color: ali; */
+    margin-left:39px;
+    font-size:29px;
     
 
 }
@@ -72,22 +82,30 @@
     margin-right: 55%;
     float: left;
     margin-left: 55px;
+    position:relative;
+    top:20px;
 }
 .social-lear{
     width: 100%;
-    height: 500px;
+    height: 320px;
     background-color: rgb(191, 198, 209);
     border-radius: 30px;
+    position:relative;
+    top:6px;
 }
 .social-lear h2{
-    margin-right: 78%;
+    margin-right: 50%;
+    margin-left:46px;
+    font-size:29px;
+    position:relative;
+    top:8px;
 
 }
 #smm{
     margin-right: 60%;
     position: relative;
     top: 20px;
-    width: 245px;
+    width: 200px;
     height: 30px;
     background-color:  rgb(247, 250, 250);
     margin-left: 100px;
@@ -97,7 +115,7 @@
     margin-right: 70%;
     position: relative;
     top: 40px;
-    width: 270px;
+    width: 250px;
     height: 30px;
     background-color:  rgb(247, 250, 250) ;
     margin-left: 100px;
@@ -106,7 +124,7 @@
 #scw{
     /* margin-right: %; */
     position: relative;
-width: 250px;
+width: 160px;
 height: 30px;
 background-color: rgb(247, 250, 250)  ;
     
@@ -116,7 +134,7 @@ background-color: rgb(247, 250, 250)  ;
     
 }
 #smg{
-    width: 250px;
+    width: 200px;
     height: 30px;
     background-color:  rgb(247, 250, 250);
     border-radius: 15px;
@@ -125,7 +143,7 @@ background-color: rgb(247, 250, 250)  ;
     top: 14px;
 }
 #seo{
-    width: 200px;
+    width: 130px;
     height: 30px;
     background-color: rgb(247, 250, 250);
     border-radius: 15px;
@@ -145,10 +163,16 @@ background-color: rgb(247, 250, 250)  ;
     height: 480px;
     background-color: rgb(191, 198, 209);
     border-radius: 30px;
+    position:relative;
+    top:10px;
+
 }
 .ssprojct h2{
-    margin-right: 1050px;
+    margin-right: 1000px;
     font-weight: 400;
+    margin-left:53px;
+    font-size:29px;
+
 
 }
 .social-projc{
@@ -162,19 +186,28 @@ background-color: rgb(247, 250, 250)  ;
     border-radius: 20px;
 }
 .social-projc h5{
-    margin-right: 250px;
-    font-weight: 500;
+    margin-right: 230px;
+    font-weight: 300;
+    margin-left:15px;
+    position:relative;
+    top:5px;
+    font-size:17px;
 }
 .social-projc h3{
-    margin-right: 10px;
-    font-weight: 600;
+    margin-right: -54px;
+    font-weight: 300;
+    font-size:20px;
+    position:relative;
+    top:24px;
+    margin-left:15px;
+
 
 }
 .social-projc p{
     float: left;
-    margin-top: -5px;
+    margin-top: -20px;
     position: relative;
-    top: 50px;
+    top: 110px;
     margin-left: 18px;
 }
 .social-projc img{
@@ -194,7 +227,7 @@ margin:0 auto;
     height: 500px;
     background-color: rgb(191, 198, 209);
     position: relative;
-    top: 10px;
+    top: 13px;
     border-radius: 30px;
 
 }
@@ -222,12 +255,15 @@ border-radius: 20px;
 .sub-revu i{
     color: gold;
     position: relative;
-    bottom: 85px;
+    bottom: 65px;
+    left: 160px;
 }
 .reviws h2{
     position: relative;
     font-weight: 500;
-    margin-right: 850px;
+    margin-right: 800px;
+    margin-left:42px;
+    font-size:29px;
     
 
 }
@@ -239,6 +275,6 @@ border-radius: 20px;
 }
 .sub-revu h3{
     position: relative;
-    bottom: 80px;
+    bottom: 65px;
 }
     

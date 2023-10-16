@@ -1,28 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&family=Oxygen&display=swap');
 
 /* has context menu */
-.bachg{
+.bachgexcel{
     background-image: url();
 }
-.sub-bussi h1{
+.firstone-bussi h1{
 
-    margin-right: 60%;
+    margin-right: 53%;
     position: relative;
     top: 20px;
     color: rgb(248, 243, 243);
-    
+    margin-left:3%;
+    font-size:31px;
 }
-.sub-bussi p{
+.firstone-bussi p{
     position: relative;
     top: 130px;
-    margin-top: -13px;
+    margin-top: -18px;
     float: left;
+    font-weight:200px;
     /* margin-right:30% ; */
     /* background-image: url(); */
     margin-left: 45px;
     color: aliceblue;
 }
-.sub-bussi {
+.firstone-bussi {
     width: 100%;
     height: 300px;
     
@@ -30,123 +32,139 @@
     
     /* background-color: rgb(99, 110, 207); */
     border-radius: 30px;
+    margin-bottom:3px;
 }
-.sub-bussi i{
+.firstone-bussi i{
     color: gold;
     /* margin-right: 200px; */
     position: relative;
     /* float: left; */
-    right: 950px;
-    top: 50px;
+    right: 690px;
+    top: 35px;
     
     /* margin-left: 100px; */
 }
-.sub-bussi h4{
+.firstone-bussi h4{
     position: relative;
     margin-right: 952px;
-    bottom: 32px;
+    bottom: 60px;
     font-weight: 500;
     color: aliceblue;
+    margin-left:300px;
+    font-size:14px;
 }
-.sub-bussi h5{
+.firstone-bussi h5{
     position: relative;
     margin-right: 600px;
-    bottom: 74px;
-    font-size: 15px;
-    font-weight: 500;
+    bottom: 86px;
+    font-size: 14px;
+    font-weight: 400;
     color: aliceblue;
+    margin-left:160px;
+
+
 }
-.sub-skill{
+.firstone-ski{
     width: 100%;
     height: 580px;
     background-color: rgb(191, 198, 209);
     /* background-image: url(); */
     border-radius: 30px;
+    margin-bottom:-4px;
 }
-.sub-skill h2{
+.firstone-ski h2{
     position: relative;
     margin-right: 77%;
-    top: 10px;
+    top: 15px;
     font-weight: 500;
+    margin-left:47px;
     /* color: ali; */
+    font-size:29px;
     
 
 }
-.sub-skill p{
+.firstone-ski p{
     margin-right: 55%;
     float: left;
     margin-left: 55px;
+    position:relative;
+    top:40px
 }
-.sub-lear{
+.firstone-learlast{
     width: 100%;
     height: 500px;
     background-color: rgb(191, 198, 209);
     border-radius: 30px;
+    margin-bottom:3px;
+    position:relative;
+    top:7px;
 }
-.sub-lear h2{
+.firstone-learlast h2{
     margin-right: 78%;
     font-weight: 500;
+    margin-left:44px;
+    font-size:28px;
 
 }
 #devp{
     margin-right: 60%;
     position: relative;
-    top: 20px;
-    width: 245px;
+    top: 35px;
+    width: 200px;
     height: 30px;
     background-color:  rgb(247, 250, 250);
-    margin-left: 100px;
+    margin-left: 57px;
     border-radius: 15px;
 }
-#data{
+#dat{
     margin-right: 70%;
     position: relative;
     top: 40px;
-    width: 170px;
+    width: 119px;
     height: 30px;
     background-color:  rgb(247, 250, 250) ;
-    margin-left: 100px;
-    border-radius: 15px;
+    margin-left: 62px;
+    border-radius: 20px;
 }
 #juni{
     /* margin-right: %; */
     position: relative;
-width: 250px;
+width: 174px;
 height: 30px;
 background-color: rgb(247, 250, 250)  ;
     
     /* margin-right: 25%; */
-    margin-left: 29%;
+    margin-left: 23%;
     border-radius: 15px;
     
 }
 #anal{
-    width: 250px;
+    width: 183px;
     height: 30px;
     background-color:  rgb(247, 250, 250);
     border-radius: 15px;
-    margin-left: 100px;
+    margin-left: 56px;
     position: relative;
     top: 14px;
 }
 #bi{
-    width: 300px;
+    width: 200px;
     height: 30px;
     background-color: rgb(247, 250, 250);
     border-radius: 15px;
     position: relative;
     top: 33px;
-    margin-left: 100px;
+    margin-left: 53px;
     
 }
 #proc{
-    width: 230px;
+    width: 146px;
     height: 30px;
     background-color:  rgb(247, 250, 250);
     border-radius: 15px;
     position: relative;
-    top: 49px;
-    margin-left: 100px;
+    top: 130px;
+    margin-left: 70px;
 }
 #stud{
     width: 150px;
@@ -159,60 +177,74 @@ background-color: rgb(247, 250, 250)  ;
 }
 
 
-.container1{
+.confirst1{
     width: 90% !important;
     margin:0 auto;
 }
-.projct{
+.excelproj{
     width: 100%;
     height: 480px;
     background-color: rgb(191, 198, 209);
     border-radius: 30px;
+    position:relative;
+    top:7px;
 }
-.projct h2{
+.excelproj h2{
     margin-right: 1050px;
     font-weight: 500;
+    margin-left:37px;
+    font-size:28px;
+    font-weight:500px;
 
 }
-.sub-projc{
+.firstone-pro{
     position: relative;
     top: 20px;
-    width: 28%;
+    width: 30%;
     height: 400px;
     background-color:rgb(234, 242, 242) ;
     float: left;
-    margin-left: 5%;
+    margin-left: 2%;
     border-radius: 20px;
 }
-.sub-projc h5{
+.firstone-pro h5{
     margin-right: 250px;
-    font-weight: 500;
-}
-.sub-projc h3{
-    margin-right: 120px;
-    font-weight: 600;
+    font-weight: 300;
+    font-size:17px;
+    margin-left:17px;
+    position:relative;
+    top:10px;
 
 }
-.sub-projc p{
+.firstone-pro h3{
+    margin-right: 100px;
+    font-weight: 400;
+    font-size:19px;
+position:relative;
+top:27px;
+margin-left:20px;
+
+}
+.firstone-pro p{
     float: left;
     margin-top: -5px;
     position: relative;
     top: 50px;
     margin-left: 18px;
 }
-.sub-projc img{
+.firstone-pro img{
     width: 160px;
     position: relative;
     top: 90px;
-    right: 90px;
+    right: -4px;
 }
 
 
-.container2{
+.consecon2{
 width: 90 !important;
 margin:0 auto;
 }
-.reviws{
+.excefirstrev{
     width: 100%;
     height: 500px;
     background-color: rgb(191, 198, 209);
@@ -221,19 +253,19 @@ margin:0 auto;
     border-radius: 30px;
 
 }
-.sub-revu{
+.firstone-revulast{
 width: 40%;
 height: 300px; 
 background-color: rgb(234, 242, 242);   
 float: left;
 margin-left: 30px;
 position: relative;
-margin-left: 130px;
+margin-left: 85px;
 top: 40px;
 border-radius: 20px;
 
 }
-.sub-revu p{
+.firstone-revulast p{
     float: left;
     margin-left: 20px;
     margin-top: -10px;
@@ -242,26 +274,33 @@ border-radius: 20px;
 
 
 }
-.sub-revu i{
+.firstone-revulast i{
     color: gold;
     position: relative;
-    bottom: 85px;
+    bottom: 65px;
+    left: 200px;
 }
-.reviws h2{
+.excefirstrev h2{
     position: relative;
     font-weight: 500;
     margin-right: 850px;
+    margin-left:50px;
+    font-size:27px;
     
 
 }
-.sub-revu img{
+.firstone-revulast img{
     width: 100px;
     position: relative;
     margin-right: 400px;
     top: 40px;
+    margin-left:20px;
 }
-.sub-revu h3{
+.firstone-revulast h3{
     position: relative;
     bottom: 80px;
+    font-size:20px;
+    margin-left:200px;
+    border-radius:20px;
 }
     

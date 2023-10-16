@@ -3,10 +3,12 @@
 }
 .sub-pow h1{
 
-    margin-right: 65%;
+    margin-right: 45%;
     position: relative;
     top: 20px;
     color: rgb(248, 243, 243);
+    margin-left:45px;
+    font-size:32px;
     
 }
 .sub-pow p{
@@ -33,25 +35,28 @@
     /* margin-right: 200px; */
     position: relative;
     /* float: left; */
-    right: 930px;
-    top: 50px;
+    right: 668px;
+    top: 34px;
     
     /* margin-left: 100px; */
 }
 .sub-pow h4{
     position: relative;
-    margin-right: 952px;
-    bottom: 32px;
+    margin-right: 852px;
+    bottom: 76px;
     font-weight: 500;
     color: aliceblue;
+    font-size:16px;
+    margin-left:341px;
 }
 .sub-pow h5{
     position: relative;
     margin-right: 600px;
-    bottom: 74px;
-    font-size: 15px;
+    bottom: 105px;
+    font-size: 16px;
     font-weight: 500;
     color: aliceblue;
+    margin-left:174px;
 }
 .pow-skill{
     width: 100%;
@@ -59,12 +64,17 @@
     background-color: rgb(191, 198, 209);
     /* background-image: url(); */
     border-radius: 30px;
+    position:relative;
+    top:3px;
 }
 .pow-skill h2{
     position: relative;
-    margin-right: 77%;
+    margin-right: 40%;
     top: 10px;
     /* color: ali; */
+    margin-left:52px;
+    font-size:29px;
+
     
 
 }
@@ -72,15 +82,23 @@
     margin-right: 55%;
     float: left;
     margin-left: 55px;
+    position:relative;
+    top:18px;
 }
 .pow-lear{
     width: 100%;
-    height: 300px;
+    height: 200px;
     background-color: rgb(191, 198, 209);
     border-radius: 30px;
+    position:relative;
+    top:6px;
 }
 .pow-lear h2{
-    margin-right: 78%;
+    margin-right: 60%;
+    margin-left:51px;
+    font-size:29px;
+    position:relative;
+    top:11px;
 
 }
 #bir{
@@ -97,7 +115,7 @@
     margin-right: 70%;
     position: relative;
     top: 40px;
-    width: 170px;
+    width: 117px;
     height: 30px;
     background-color:  rgb(247, 250, 250) ;
     margin-left: 100px;
@@ -106,7 +124,7 @@
 #datp{
     /* margin-right: %; */
     position: relative;
-width: 250px;
+width: 153px;
 height: 30px;
 background-color: rgb(247, 250, 250)  ;
     
@@ -169,7 +187,7 @@ background-color: rgb(247, 250, 250)  ;
     font-weight: 400;
 
 }
-.sub-projc{
+.sub-projc2{
     position: relative;
     top: 20px;
     width: 28%;
@@ -179,23 +197,30 @@ background-color: rgb(247, 250, 250)  ;
     margin-left: 5%;
     border-radius: 20px;
 }
-.sub-projc h5{
-    margin-right: 250px;
-    font-weight: 500;
+.sub-projc2 h5{
+    margin-right: 200px;
+    font-weight: 300;
+    margin-left:10px;
+    position:relative;
+    top:8px;
 }
-.sub-projc h3{
-    margin-right: 120px;
-    font-weight: 600;
+.sub-projc2 h3{
+    margin-right: 12px;
+    font-weight: 300;
+    font-size:23px;
+    position:relative;
+    top:37px;
+    margin-left:10px;
 
 }
-.sub-projc p{
+.sub-projc2 p{
     float: left;
-    margin-top: -5px;
+    margin-top: -19px;
     position: relative;
-    top: 50px;
+    top: 96px;
     margin-left: 18px;
 }
-.sub-projc img{
+.sub-projc2 img{
     width: 160px;
     position: relative;
     top: 90px;
@@ -207,12 +232,12 @@ background-color: rgb(247, 250, 250)  ;
 width: 90 !important;
 margin:0 auto;
 }
-.reviws{
+.reviws11{
     width: 100%;
     height: 500px;
     background-color: rgb(191, 198, 209);
     position: relative;
-    top: 10px;
+    top: 12px;
     border-radius: 30px;
 
 }
@@ -242,10 +267,12 @@ border-radius: 20px;
     position: relative;
     bottom: 85px;
 }
-.reviws h2{
+.reviws11 h2{
     position: relative;
     font-weight: 500;
-    margin-right: 850px;
+    margin-right: 770px;
+    margin-left:46px;
+    font-size:29px;
     
 
 }
