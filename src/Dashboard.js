@@ -58,7 +58,7 @@ function Dashboard() {
             <div className='admin-dash-sub'>
             {!isAdding && !isEditing && (
                 <>
-                   
+                  
                     <List
                         employees={employees}
                         handleEdit={handleEdit}
@@ -66,6 +66,7 @@ function Dashboard() {
                     />
                 </>
             )}
+           
             {isAdding && (
                 <Add
                     employees={employees}
@@ -73,6 +74,7 @@ function Dashboard() {
                     setIsAdding={setIsAdding}
                 />
             )}
+           
             {isEditing && (
                 <Edit
                     employees={employees}
