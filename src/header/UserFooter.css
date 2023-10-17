@@ -8,7 +8,6 @@
 
 
 
-/* Footer */
 .edu-footer-container{
     width: 100%;
     height: auto;
@@ -66,7 +65,6 @@
 #edu-twit{
     font-size: 30px;
     color: black;
-    /* border: 1px solid gray; */
     background-color: transparent;
     width: 15%;
     height: 35px;
@@ -82,7 +80,6 @@
     color: black;
  width: 15%;
  height: 35px;
- /* border: 1px solid gray; */
  background-color: transparent;
  text-align: center;
 
@@ -91,7 +88,6 @@
     font-size: 30px;
     margin-left: 10px;
     color: black;
- /* border: 1px solid gray; */
  background-color: transparent;
  width: 16%;
  text-align: center;
@@ -102,7 +98,6 @@
     font-size: 30px;
     margin-left: 10px;
     color: black;
- /* border: 1px solid gray; */
  background-color: transparent;
  width: 16%;
  height: 35px;

@@ -44,9 +44,7 @@ function Machin(){
             <p id="mana">Business Analysts</p>
             <p id="mia">information Architects</p>
             <p id="mde">Developers</p>
-            {/* <p id="bi"></p>
-            <p id="proc"></p>
-            <p id="stud"></p> */}
+           
         </div>
         <div className="mprojct">
           <h2>Industry Project</h2>
@@ -57,7 +55,6 @@ function Machin(){
               <p>Develop a Shopping app for an e-commerce</p>
               <p>Company using python</p>
               
-              {/* <img src="https://mma.prnewswire.com/media/617186/Pearson_Logo.jpg?p=twitter"></img> */}
 
             </div>
             <div className="machi-projc">
@@ -77,7 +74,6 @@ function Machin(){
               <p> retail firm's customer acquistion </p>
               
               <p></p>
-              {/* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnP4dh6b_ydM3PwDRKjxvqNySlu9FwacHrPA&usqp=CAU"></img> */}
 
               
             </div>
@@ -121,8 +117,7 @@ function Machin(){
                 <p>The instructor was very knowledgeable and provided live project</p>
                 <p>cases.making the sessions more enjoyable.The topics were made</p>
                 <p>easy-to-understand with real-life examples.</p>
-                {/* <p></p>
-                <p></p> */}
+                
                 
 
               

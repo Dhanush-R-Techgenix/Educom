@@ -49,7 +49,6 @@ function Cyber(){
             <p id="mp">Management Professionals</p>
             <p id="sec">Security Consultants</p>
             <p id="see">Security Engineers</p>
-            {/* <p id="dataan"></p> */}
 
         </div>
         <div className="intr-proj">

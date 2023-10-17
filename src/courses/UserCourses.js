@@ -11,8 +11,6 @@ function UserCourses (){
 <a href="Analy"> <div className="sub-cour">
      <h5>Business Analytics With Excel </h5>
 <h5></h5>
-{/* <span  id="logo"class="fa fa-star checked"></span> */}
-        {/* <span class="fa fa-star checked"></span> */}
 <p>4.6 <span id="logo" class="fa fa-star checked"></span>. 449K learners</p>
 <h6 id="vid">Video Lessons </h6>
 <h3>  Enroll and Win reward</h3>
@@ -21,7 +19,6 @@ function UserCourses (){
     </div></a>
     <a href="Pyth">  <div className="sub-cour">
        <h5>Applied Data Science With Python</h5>
-        {/* <span class="fa fa-star checked"></span> */}
         <p>4.6  <span id="logo" class="fa fa-star checked"></span>      . 450K learners</p>
         <h6 id="vid">Video Lessons </h6>
         <h3>Enroll and Win reward</h3>
@@ -32,7 +29,6 @@ function UserCourses (){
     </div></a>
    <a href="Introd"> <div className="sub-cour">
         <h5>introduction to Data Analytics Course</h5>
-        {/* <span class="fa fa-star checked"></span> */}
 
         <p>4.6   <span id="logo" class="fa fa-star checked"></span>     . 430K learners</p>
         <h6 id="vid">Video Lessons </h6>
@@ -44,7 +40,6 @@ function UserCourses (){
     </div></a>
      <div className="sub-cour">
      <a href="Cyber">  <h5>introduction to Cyber Security</h5></a>
-        {/* <span class="fa fa-star checked"></span> */}
 
         <p>4.6   <span id="logo" class="fa fa-star checked"></span>     . 449K learners</p>
         <h6 id="vid">Video Lessons </h6>
@@ -56,7 +51,6 @@ function UserCourses (){
     </div>
     <div className="sub-cour">
      <a href="Begin"> <h5> Python for Beginners</h5> </a>
-      {/* <span class="fa fa-star checked"></span> */}
 
       <p>4.6    <span id="logo" class="fa fa-star checked"></span>    . 449K learners</p>
       <h6 id="vid">Video Lessons </h6>
@@ -68,7 +62,6 @@ function UserCourses (){
     </div>
     <div className="sub-cour">
       <a href="Msex"> <h5>introduction to MS Excel</h5></a> 
-        {/* <span class="fa fa-star checked"></span> */}
 
         <p>4.6     <span id="logo" class="fa fa-star checked"></span>   . 449K learners</p>
         <h6 id="vid">Video Lessons </h6>
@@ -80,7 +73,6 @@ function UserCourses (){
     </div>
     <div className="sub-cour">
       <a href="Machin">  <h5>Machine Learning</h5></a>
-        {/* <span class="fa fa-star checked"></span> */}
 
         <p>4.6 <span id="logo" class="fa fa-star checked"></span>       . 449K learners</p>
         <h6 id="vid">Video Lessons </h6>
@@ -91,7 +83,7 @@ function UserCourses (){
     </div>
     <div className="sub-cour">
       <a href="Power">  <h5>Power BI for Beginners</h5></a>
-        {/* <span class="fa fa-star checked"></span> */}
+        
 
         <p>4.6  <span id="logo" class="fa fa-star checked"></span>      . 449K learners</p>
         <h6 id="vid">Video Lessons </h6>
@@ -104,7 +96,7 @@ function UserCourses (){
     </div>
     <div className="sub-cour">
       <a href="Sqlto">  <h5>introduction to SQL</h5></a>
-        {/* <span class="fa fa-star checked"></span> */}
+        
 
         <p>4.6  <span id="logo" class="fa fa-star checked"></span>      . 449K learners</p>
         <h6 id="vid">Video Lessons </h6>
@@ -115,7 +107,7 @@ function UserCourses (){
     </div>
     <div className="sub-cour">
        <a href="Artifici"> <h5>introduction to Artificial Intelligence</h5></a>
-        {/* <span class="fa fa-star checked"></span> */}
+        
 
         <p>4.6 <span id="logo" class="fa fa-star checked"></span>       . 449K learners</p>
         <h6 id="vid">Video Lessons </h6>
@@ -127,314 +119,7 @@ function UserCourses (){
     </div>
  
     
-        {/* </div>
-        <div className="sub-cour">
-            <h5>Getting Started WithAWS</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Python Libraries for Data Science</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>introduction To Cloud Security</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>MongoDB Developer and Administrator</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>introduction to Data Visualization</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Deep Learning For Beginners</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>introduction to Cybercrime</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Salesforce Administrator & App Builder</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Complete Google AsWords Professional</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Digital Marketing Strategy</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Getting Started With Business Analysis</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Advanced Email Marketing</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>introduction to Selenium</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>CCNA 200-301 Network Fundamentals Course</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Advanced Content Marketing</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Getting Started With Interview Preparation</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Salesforce Administrator</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Instagram Marketing Basics</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>introduction to Devops Tools</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Getting Started With Machine Learning Algorithm</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Getting Started With Node JS</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Getting Python Interview Ready</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>introduction to CSS</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Digital Marketing Tools and Techniques</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>introduction to Google Cloud Platfrom</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>SQL injection For Beginners</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Basic introduction to Linux Course</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>introduction to PHP Basics</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>R Programing for Beginners</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Advanced Pay Per Click (PPC) Program</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>introduction to Kubernetes</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Digital Marketing for CXOs</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>Digital Leadership in Business</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div>
-        <div className="sub-cour">
-            <h5>introduction to Cryptocurrency</h5>
-        <p>4.6        . 449K learners</p>
-    <h6 id="vid">Video Lessons </h6>
-    <h3>Enroll and Win reward</h3>
-    <img src=""></img>
-    <button id="butt">FREE</button>
-        
-        </div> */}
-    
+       
 </div>
         </div>
         </div>

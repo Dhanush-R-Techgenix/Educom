@@ -43,7 +43,6 @@ function Introd(){
             <p id="inana">Analytics Managers</p>
             <p id="inmid">Mid Level Managers</p>
             <p id="incxo">CXO</p>
-            {/* <p id="dataan"></p> */}
 
         </div>
         <div className="intr-proj">

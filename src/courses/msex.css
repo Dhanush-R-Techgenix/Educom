@@ -24,18 +24,14 @@
     
      background-image: url(https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/15/aa9a0b99-ed76-48ea-8c14-4adcd42c91b1.jpg); 
     
-    /* background-color: rgb(99, 110, 207); */
     border-radius: 30px;
 }
 .sub-msex i{
     color: gold;
-    /* margin-right: 200px; */
     position: relative;
-    /* float: left; */
     right: 747px;
     top: 40px;
     
-    /* margin-left: 100px; */
 }
 .sub-msex h4{
     position: relative;
@@ -59,7 +55,6 @@
     width: 100%;
     height: 400px;
     background-color: rgb(191, 198, 209);
-    /* background-image: url(); */
     border-radius: 30px;
     position:relative;
     top:3px;
@@ -68,7 +63,6 @@
     position: relative;
     margin-right: 50%;
     top: 10px;
-    /* color: ali; */
     margin-left:40px;
     font-size:29px;
     
@@ -116,13 +110,11 @@
     border-radius: 15px;
 }
 #datan{
-    /* margin-right: %; */
     position: relative;
 width: 150px;
 height: 30px;
 background-color: rgb(247, 250, 250)  ;
     
-    /* margin-right: 25%; */
     margin-left: 29%;
     border-radius: 15px;
     
@@ -200,7 +192,6 @@ background-color: rgb(247, 250, 250)  ;
     position: relative;
     top: 100px;
     margin-left: 10px;
-    /* float: left; */
 }
 .msex-projc img{
     width: 160px;

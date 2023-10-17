@@ -19,7 +19,6 @@ function AdminLogin() {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    // Replace with your actual valid credentials
     const validUsername = "Geethanjali@gmail.com";
     const validPassword = "1234";
 

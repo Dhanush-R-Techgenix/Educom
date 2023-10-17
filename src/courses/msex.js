@@ -111,8 +111,7 @@ function Msex(){
                 <p>The instructor was very knowledgeable and provided live project</p>
                 <p>cases.making the sessions more enjoyable.The topics were made</p>
                 <p>easy-to-understand with real-life examples.</p>
-                {/* <p></p>
-                <p></p> */}
+             
                 
 
               

@@ -14,8 +14,7 @@
     top: 130px;
     margin-top: -13px;
     float: left;
-    /* margin-right:30% ; */
-    /* background-image: url(); */
+  
     margin-left: 45px;
     color: aliceblue;
 }
@@ -25,18 +24,14 @@
     
      background-image: url(https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/15/aa9a0b99-ed76-48ea-8c14-4adcd42c91b1.jpg); 
     
-    /* background-color: rgb(99, 110, 207); */
     border-radius: 30px;
 }
 .sub-chain i{
     color: gold;
-    /* margin-right: 200px; */
     position: relative;
-    /* float: left; */
     right: 950px;
     top: 50px;
     
-    /* margin-left: 100px; */
 }
 .sub-chain h4{
     position: relative;
@@ -57,14 +52,12 @@
     width: 100%;
     height: 500px;
     background-color: rgb(191, 198, 209);
-    /* background-image: url(); */
     border-radius: 30px;
 }
 .chain-skill h2{
     position: relative;
     margin-right: 77%;
     top: 10px;
-    /* color: ali; */
     
 
 }
@@ -104,13 +97,11 @@
     border-radius: 15px;
 }
 #chsa{
-    /* margin-right: %; */
     position: relative;
 width: 250px;
 height: 30px;
 background-color: rgb(247, 250, 250)  ;
     
-    /* margin-right: 25%; */
     margin-left: 29%;
     border-radius: 15px;
     
@@ -149,7 +140,6 @@ background-color: rgb(247, 250, 250)  ;
     background-color: rgb(247, 250, 250);
     border-radius: 15px;
     position: relative;
-    /* top: 50px; */
     margin-left: 400px;
 }
 

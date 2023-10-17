@@ -53,7 +53,6 @@ function Power(){
               <p>development processes to brtter meet the </p>
               <p>needs of customers in the education</p>
               <p>market</p>
-              {/* <img src="https://mma.prnewswire.com/media/617186/Pearson_Logo.jpg?p=twitter"></img> */}
 
             </div>
             <div className="sub-projc2">
@@ -117,8 +116,7 @@ function Power(){
                 <p>The instructor was very knowledgeable and provided live project</p>
                 <p>cases.making the sessions more enjoyable.The topics were made</p>
                 <p>easy-to-understand with real-life examples.</p>
-                {/* <p></p>
-                <p></p> */}
+               
                 
 
               

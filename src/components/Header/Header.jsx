@@ -12,14 +12,7 @@ const navLinks = [
     url: "AboutUs",
   },
 
-  // {
-  //   display: "Courses",
-  //   url: "#",
-  // },
-  // {
-  //   display: "Pages",
-  //   url: "#",
-  // },
+  
   {
     display: "Login",
     url: "Login",
@@ -38,7 +31,7 @@ const Header = () => {
         <div className="navigation d-flex align-items-center justify-content-between">
           <div className="logo">
             <h2 className=" d-flex align-items-center gap-1">
-              {/* <i class="ri-pantone-line"></i> Educom. */}<img className="MainLogo" src="EDUCOMLOGO.png"></img>
+              <img className="MainLogo" src="EDUCOMLOGO.png"></img>
             </h2>
           </div>
 

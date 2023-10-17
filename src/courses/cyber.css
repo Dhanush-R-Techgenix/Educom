@@ -8,7 +8,6 @@
 }
 .one-cyber i{
     position: relative;
-    /* right: 590px; */
     left: 45px;
     top: 50px;
     color: gold;
@@ -44,7 +43,6 @@
 .one-cyber{
     width: 100%;
     height: 300px;
-    /* background-color: rgb(99, 110, 207); */
     background-image: url(https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/15/aa9a0b99-ed76-48ea-8c14-4adcd42c91b1.jpg);
     border-radius: 30px;
 }
@@ -59,7 +57,6 @@
     float: left;
     margin-right: 1000px;
     margin-left: 50px;
-    /* margin-bottom: -px; */
 
 }
 .cybe-skill1{
@@ -122,15 +119,7 @@ margin-right: 70%;
     margin-left: 320px;
     border-radius: 15px;
 }
-/* #incxo{
-    margin-right: 60%;
-    position: relative;
-    top: 15px;
-    width: 210px;
-    height: 30px;
-    background-color: rgb(219, 248, 248);
-    margin-left: 300px;
-    border-radius: 15px; */
+
 
 .cybe-learn{
     width: 100%;

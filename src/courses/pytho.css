@@ -8,7 +8,6 @@
 }
 .sub-pyth i{
     position: relative;
-    /* right: 590px; */
     left: 21px;
     top: 57px;
     color: gold;
@@ -45,7 +44,6 @@
 .sub-pyth{
     width: 100%;
     height: 300px;
-    /* background-color: rgb(99, 110, 207); */
     background-image: url(https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/15/aa9a0b99-ed76-48ea-8c14-4adcd42c91b1.jpg);
     border-radius: 30px;
     position:relative;
@@ -67,7 +65,6 @@
     margin-left: 20px;
     position:relative;
     bottom:-20px;
-    /* margin-bottom: -px; */
 
 }
 .sub-skill1{
@@ -197,7 +194,6 @@ border-radius: 30px;
    position:relative;
    top:32px;
 
-   /* float: left; */
 
 }
 .sub-prod p{

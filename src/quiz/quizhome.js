@@ -7,20 +7,6 @@ function Quizhome() {
     <div className='hd-container'>
       <div className='hd-head'>
 
-        {/* <div class="dropdown">
-          <button class="dropbtn"><i style={{ color: 'black' }} class="fa fa-bars"></i></button>
-          <div class="dropdown-content"> */}
-            {/* <a href="QuizHome">Quiz</a> */}
-            {/* <a href="Dashboard">Dashbord</a>
-            <a href="Jobdetails">Logout</a>
-          </div> */}
-
-
-
-
-
-{/* 
-        </div> */}
 
         <div className='adm-home-head-button'>
          

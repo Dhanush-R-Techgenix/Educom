@@ -27,18 +27,14 @@
     
      background-image: url(https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/15/aa9a0b99-ed76-48ea-8c14-4adcd42c91b1.jpg); 
     
-    /* background-color: rgb(99, 110, 207); */
     border-radius: 30px;
 }
 .sub-arti i{
     color: gold;
-    /* margin-right: 200px; */
     position: relative;
-    /* float: left; */
     right: 739px;
     top: 32px;
     
-    /* margin-left: 100px; */
 }
 .sub-arti h4{
     position: relative;
@@ -62,7 +58,6 @@
     width: 100%;
     height: 380px;
     background-color: rgb(191, 198, 209);
-    /* background-image: url(); */
     border-radius: 30px;
     position:relative;
     top:3px;
@@ -73,7 +68,6 @@
     top: 10px;
     font-size:29px;
     margin-left:36px;
-    /* color: ali; */
     
 
 }
@@ -121,13 +115,11 @@
     border-radius: 15px;
 }
 #ain{
-    /* margin-right: %; */
     position: relative;
 width: 250px;
 height: 30px;
 background-color: rgb(247, 250, 250)  ;
     
-    /* margin-right: 25%; */
     margin-left: 29%;
     border-radius: 15px;
     
@@ -167,7 +159,6 @@ background-color: rgb(247, 250, 250)  ;
     background-color: rgb(247, 250, 250);
     border-radius: 15px;
     position: relative;
-    /* top: 50px; */
     margin-left: 400px;
 }
 

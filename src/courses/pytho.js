@@ -20,7 +20,7 @@ import "./pytho.css"
                 <p>techniques.learning python in a ceucial skill for many data science roles, and you can develops it with this</p>
                 <p>python data science course.With ablended learning approach.You can learn python for data science</p>
                 <p>along with concepts like data wrangling, mathematical computing, and more.unlock your career as a</p>
-                {/* <p>data sclentist with simplileams Data science with python training.</p> */}
+              
                 </div>
         
         <div className="sub-skill1">

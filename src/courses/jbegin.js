@@ -45,44 +45,7 @@ function Jbegi(){
             
            
         </div>
-        {/* <div className="ssprojct">
-          <h2>Industry Project</h2>
-          <div className="container13">
-            <div className="social-projc">
-              <h5>Project 1</h5>
-              <h3>Building A Social Media Strategy</h3>
-              <p>Get hands-on experience in social media</p>
-              <p>challenges, strategy building and creating a</p>
-              <p>campaign message by building a sustainable</p>
-              <p>social media strategy and establish business</p>
-              <p></p>
-              
-
-            </div>
-            <div className="social-projc">
-              <h5>Project 2</h5>
-              <h3>Converged Media</h3>
-              <p>Develop the ability to increase the effect</p>
-              <p>campaigns by learning how and When to </p>
-              <p>additional boosts or efforts from other areas</p>
-              
-              
-            </div>
-            <div className="social-projc">
-              <h5>Project 3</h5>
-              <h3>Content Marketing</h3>
-              <p>Learn how to use customer profiles or </p>
-              <p>personasto determine which types of content </p>
-              <p> to develop upcoming social media  campaign </p>
-              
-              
-
-              
-            </div>
-          </div>
-
-
-        </div> */}
+       
         <div className="jreviws">
           <h2>What other Learners are saying</h2>
           <div className="container14">
@@ -119,8 +82,6 @@ function Jbegi(){
                 <p>The instructor was very knowledgeable and provided live project</p>
                 <p>cases.making the sessions more enjoyable.The topics were made</p>
                 <p>easy-to-understand with real-life examples.</p>
-                {/* <p></p>
-                <p></p> */}
                 
 
               

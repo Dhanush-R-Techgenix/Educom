@@ -25,18 +25,14 @@
     
      background-image: url(https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/15/aa9a0b99-ed76-48ea-8c14-4adcd42c91b1.jpg); 
     
-    /* background-color: rgb(99, 110, 207); */
     border-radius: 30px;
 }
 .sub-begin i{
     color: gold;
-    /* margin-right: 200px; */
     position: relative;
-    /* float: left; */
     right: 747px;
     top: 28px;
     
-    /* margin-left: 100px; */
 }
 .sub-begin h4{
     position: relative;
@@ -60,7 +56,6 @@
     width: 100%;
     height: 340px;
     background-color: rgb(191, 198, 209);
-    /* background-image: url(); */
     border-radius: 30px;
     position:relative;
     top:3px;
@@ -72,7 +67,6 @@
     top: 10px;
     margin-left:45px;
     font-size:29px;
-    /* color: ali; */
     
 
 }
@@ -118,13 +112,11 @@
     border-radius: 15px;
 }
 #datan3{
-    /* margin-right: %; */
     position: relative;
 width: 150px;
 height: 30px;
 background-color: rgb(247, 250, 250)  ;
     
-    /* margin-right: 25%; */
     margin-left: 29%;
     border-radius: 15px;
     

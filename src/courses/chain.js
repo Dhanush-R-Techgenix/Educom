@@ -58,7 +58,6 @@ function Chain() {
               <p>electrion voting framework by leveraging</p>
               <p>needs of customers in the education</p>
               
-              {/* <img src="https://mma.prnewswire.com/media/617186/Pearson_Logo.jpg?p=twitter"></img> */}
 
             </div>
             <div className="chain-projc">
@@ -122,8 +121,7 @@ function Chain() {
                 <p>The instructor was very knowledgeable and provided live project</p>
                 <p>cases.making the sessions more enjoyable.The topics were made</p>
                 <p>easy-to-understand with real-life examples.</p>
-                {/* <p></p>
-                <p></p> */}
+                
                 
 
 

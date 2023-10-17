@@ -14,7 +14,7 @@
   }
   
   .Log-in .card {
-    background-color: rgba(255, 255, 255, 0); /* Add a semi-transparent white background for better readability */
+    background-color: rgba(255, 255, 255, 0); 
     padding: 20px;
     border-radius: 10px;
     width: 38vw;
@@ -40,20 +40,20 @@
   }
   
   .Log-in .button:hover {
-    background-color: #4caf50; /* Green on hover */
+    background-color: #4caf50; 
   }
   
   .Log-in .admin-button {
     background: linear-gradient(to right, #3498db, #2980b9);
-    transition: background 0.3s ease; /* Add a smooth transition effect */
+    transition: background 0.3s ease;
   }
   
   .Log-in .user-button {
     background: linear-gradient(to right, #2ecc71, #27ae60);
-    transition: background 0.3s ease; /* Add a smooth transition effect */
+    transition: background 0.3s ease; 
   }
   
-  /* Hover effect */
+  
   .Log-in .admin-button:hover {
     background: linear-gradient(to right, #1498ef, #1498ef);
   }

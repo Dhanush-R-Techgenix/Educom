@@ -5,8 +5,6 @@
   align-items: center;
   height: 100vh;
   margin: 0;
-  /* background-color: #c54040;  */
-   /* background-image: url("https://assets.architecturaldigest.in/photos/601a3b8f2814797e457e5e33/16:9/w_2560%2Cc_limit/School-architecture-institution.jpg"); */
    background-image: url("https://img.freepik.com/premium-photo/computer-monitor-with-white-blank-screen-creative-office-supply-workspace_35674-2426.jpg");
    background-repeat: no-repeat; 
   background-size: cover; 
@@ -25,16 +23,6 @@
   background-color: #ffffff00;
   text-align: center;
 }
-/* 
-.login-form {
-  max-width: 400px;
-  padding: 50px;
-  border: 1px solid #e0e0e0;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  background-color: #fff;
-  text-align: center;
-} */
 
 .login-heading {
   font-size: 24px;

@@ -6,7 +6,6 @@ function Adminhome() {
   return (
     <div className='edu-hd-container'>
 
-      {/* header */}
       <div className='edu-hd-head'>
         <div className='edu-adm-head-logo'>
           <a href='Adminhome'><img src='logo.png'></img></a>
@@ -26,7 +25,6 @@ function Adminhome() {
         </div>
       </div>
 
-      {/* banner */}
 
       <div className='edu-adm-home-banner'>
         <div className='edu-adm-banner-para'>
